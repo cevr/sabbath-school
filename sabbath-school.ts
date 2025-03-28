@@ -10,7 +10,13 @@ import { matchSorter } from "match-sorter";
 import * as cheerio from "cheerio";
 
 import dotenv from "dotenv";
-import { outlineSystemPrompt, outlineUserPrompt } from "./prompts";
+import {
+  outlineSystemPrompt,
+  outlineUserPrompt,
+  reviewCheckSystemPrompt,
+  reviewCheckUserPrompt,
+  reviewUserPrompt,
+} from "./prompts";
 
 dotenv.config();
 
@@ -61,6 +67,16 @@ class FileSystemError extends Data.TaggedError("FileSystemError")<{
   cause: unknown;
 }> {}
 
+class ReviewError extends Data.TaggedError("ReviewError")<{
+  week: number;
+  cause: unknown;
+}> {}
+
+class ReviseError extends Data.TaggedError("ReviseError")<{
+  week: number;
+  cause: unknown;
+}> {}
+
 const GoogleKey = Schema.Config("GEMINI_API_KEY", Schema.NonEmptyString);
 
 class Model extends Effect.Service<Model>()("Model", {
@@ -98,7 +114,13 @@ const parseFlag = (flag: string) =>
 const parseYear = parseFlag("--year").pipe(
   Effect.map((x) =>
     x.pipe(
-      Option.map(Schema.decodeUnknownSync(Schema.NumberFromString)),
+      Option.map(
+        Schema.decodeUnknownSync(
+          Schema.NumberFromString.pipe(
+            Schema.lessThanOrEqualTo(new Date().getFullYear())
+          )
+        )
+      ),
       Option.getOrElse(() => new Date().getFullYear())
     )
   )
@@ -107,7 +129,14 @@ const parseYear = parseFlag("--year").pipe(
 const parseQuarter = parseFlag("--quarter").pipe(
   Effect.map((x) =>
     x.pipe(
-      Option.map(Schema.decodeUnknownSync(Schema.NumberFromString)),
+      Option.map(
+        Schema.decodeUnknownSync(
+          Schema.NumberFromString.pipe(
+            Schema.greaterThanOrEqualTo(1),
+            Schema.lessThanOrEqualTo(4)
+          )
+        )
+      ),
       Option.getOrElse(() => Math.floor(new Date().getMonth() / 3) + 1)
     )
   )
@@ -116,8 +145,14 @@ const parseQuarter = parseFlag("--quarter").pipe(
 const parseWeek = parseFlag("--week").pipe(
   Effect.map((x) =>
     x.pipe(
-      Option.map(Schema.decodeUnknownSync(Schema.NumberFromString)),
-      Option.getOrElse(() => undefined)
+      Option.map(
+        Schema.decodeUnknownSync(
+          Schema.NumberFromString.pipe(
+            Schema.greaterThanOrEqualTo(1),
+            Schema.lessThanOrEqualTo(13)
+          )
+        )
+      )
     )
   )
 );
@@ -125,6 +160,7 @@ const parseWeek = parseFlag("--week").pipe(
 enum Action {
   Outline = "outline",
   Download = "download",
+  Revise = "revise",
 }
 
 const parseAction = parseFlag("--action").pipe(
@@ -132,9 +168,10 @@ const parseAction = parseFlag("--action").pipe(
     x.pipe(
       Option.flatMap((action) =>
         Option.fromNullable(
-          matchSorter([Action.Outline, Action.Download], action)[0] as
-            | string
-            | undefined
+          matchSorter(
+            [Action.Outline, Action.Download, Action.Revise],
+            action
+          )[0] as string | undefined
         )
       ),
       Option.map(Schema.decodeUnknownSync(Schema.Enums(Action)))
@@ -149,7 +186,7 @@ class Args extends Effect.Service<Args>()("Args", {
     const action = yield* parseAction;
     const week = yield* parseWeek;
 
-    return { year, quarter, action, week: Option.fromNullable(week) } as const;
+    return { year, quarter, action, week } as const;
   }),
 }) {}
 
@@ -299,7 +336,7 @@ const downloadQuarter = Effect.gen(function* (_) {
   });
 
   // Parse the base URL once
-  const baseUrl = "https://www.sabbath.school/LessonBook";
+  const baseUrl = `https://www.sabbath.school/LessonBook?year=${year}&quarter=${quarter}`;
   const response = yield* Effect.tryPromise({
     try: () =>
       fetch(baseUrl).then((res) => {
@@ -340,7 +377,9 @@ const downloadQuarter = Effect.gen(function* (_) {
     return;
   }
 
-  yield* Effect.log(`Found ${weeksToDownload.length} missing PDFs to download...`);
+  yield* Effect.log(
+    `Found ${weeksToDownload.length} missing PDFs to download...`
+  );
 
   yield* Effect.forEach(
     weeksToDownload,
@@ -395,6 +434,79 @@ const downloadQuarter = Effect.gen(function* (_) {
   yield* Effect.log(`\n✅ Download complete (${totalTime})`);
 });
 
+const yesRegex = /yes/i;
+
+const reviseText = (
+  text: string,
+  weekNumber: number,
+  current: number,
+  total: number,
+  year: number,
+  quarter: number
+) =>
+  Effect.gen(function* (_) {
+    const model = yield* Model;
+
+    const reviewResponse = yield* Effect.tryPromise({
+      try: () =>
+        generateText({
+          model,
+          messages: [
+            { role: "system", content: reviewCheckSystemPrompt },
+            { role: "user", content: reviewCheckUserPrompt(text) },
+          ],
+        }),
+      catch: (cause: unknown) =>
+        new ReviewError({
+          week: weekNumber,
+          cause,
+        }),
+    });
+
+    const shouldRevise = yesRegex.test(reviewResponse.text);
+
+    if (!shouldRevise) {
+      yield* Effect.log(
+        `${formatLogPrefix(
+          current,
+          total,
+          year,
+          quarter,
+          weekNumber
+        )}No revision needed`
+      );
+      return text;
+    }
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Revising outline...`
+    );
+
+    const revisedOutline = yield* Effect.tryPromise({
+      try: () =>
+        generateText({
+          model,
+          messages: [
+            { role: "system", content: reviewCheckSystemPrompt },
+            { role: "user", content: reviewUserPrompt(text) },
+          ],
+        }),
+      catch: (cause: unknown) =>
+        new ReviseError({
+          week: weekNumber,
+          cause,
+        }),
+    });
+
+    return revisedOutline.text;
+  });
+
 const generateOutline = (
   weekNumber: number,
   quarter: number,
@@ -409,7 +521,16 @@ const generateOutline = (
     const lessonPdfPath = path.join(weekDir, LESSON_PDF_FILENAME);
     const egwPdfPath = path.join(weekDir, EGW_PDF_FILENAME);
 
-    // Read both PDF files
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Reading PDFs...`
+    );
+
     const [lessonPdfBuffer, egwPdfBuffer] = yield* Effect.all([
       Effect.try({
         try: () => fs.readFileSync(lessonPdfPath),
@@ -429,10 +550,22 @@ const generateOutline = (
       }),
     ]);
 
+    const outlineStartTime = Date.now();
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Generating outline...`
+    );
+
     const response = yield* Effect.tryPromise({
       try: () =>
         generateText({
-          model: model as LanguageModelV1,
+          model,
           messages: [
             { role: "system", content: outlineSystemPrompt },
             {
@@ -463,9 +596,32 @@ const generateOutline = (
         }),
     });
 
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Outline generated in ${msToMinutes(Date.now() - outlineStartTime)}`
+    );
+
+    let text = response.text;
+
+    // Revise the outline if needed
+    text = yield* reviseText(text, weekNumber, current, total, year, quarter);
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Writing outline...`
+    );
     yield* Effect.try({
-      try: () =>
-        fs.writeFileSync(path.join(weekDir, "outline.md"), response.text),
+      try: () => fs.writeFileSync(path.join(weekDir, "outline.md"), text),
       catch: (cause: unknown) =>
         new FileSystemError({
           operation: "write_file",
@@ -512,6 +668,108 @@ const processQuarter = Effect.gen(function* (_) {
   yield* Effect.log(`\n✅ Processing complete (${totalTime})`);
 });
 
+const reviseOutline = (
+  weekNumber: number,
+  quarter: number,
+  year: number,
+  current: number,
+  total: number
+) =>
+  Effect.gen(function* (_) {
+    const startTime = Date.now();
+    const weekDir = getWeekDir(weekNumber, quarter, year);
+    const outlinePath = path.join(weekDir, "outline.md");
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Reading outline...`
+    );
+
+    const outlineText = yield* Effect.try({
+      try: () => fs.readFileSync(outlinePath, "utf-8"),
+      catch: (cause: unknown) =>
+        new FileSystemError({
+          operation: "read_file",
+          cause,
+        }),
+    });
+
+    // Revise the outline if needed
+    const revisedText = yield* reviseText(
+      outlineText,
+      weekNumber,
+      current,
+      total,
+      year,
+      quarter
+    );
+
+    // Only write if the text was actually revised
+    if (revisedText !== outlineText) {
+      yield* Effect.log(
+        `${formatLogPrefix(
+          current,
+          total,
+          year,
+          quarter,
+          weekNumber
+        )}Writing revised outline...`
+      );
+
+      yield* Effect.try({
+        try: () => fs.writeFileSync(outlinePath, revisedText),
+        catch: (cause: unknown) =>
+          new FileSystemError({
+            operation: "write_file",
+            cause,
+          }),
+      });
+    }
+
+    const totalTime = msToMinutes(Date.now() - startTime);
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Outline revised (${totalTime})`
+    );
+  });
+
+const reviseQuarter = Effect.gen(function* (_) {
+  const startTime = Date.now();
+  const args = yield* Args;
+  const { year, quarter, week } = args;
+
+  yield* Effect.log(
+    `Starting outline revision for Q${quarter} ${year}${
+      Option.isSome(week) ? ` Week ${week.value}` : ""
+    }`
+  );
+
+  const weeks = Option.match(week, {
+    onSome: (w) => [w],
+    onNone: () => Array.from({ length: 13 }, (_, i) => i + 1),
+  });
+
+  yield* Effect.forEach(
+    weeks,
+    (weekNumber, index) =>
+      reviseOutline(weekNumber, quarter, year, index + 1, weeks.length),
+    { concurrency: 2 }
+  );
+
+  const totalTime = msToMinutes(Date.now() - startTime);
+  yield* Effect.log(`\n✅ Revision complete (${totalTime})`);
+});
+
 const program = Effect.gen(function* (_) {
   const args = yield* Args;
 
@@ -526,6 +784,7 @@ const program = Effect.gen(function* (_) {
               options: [
                 { value: Action.Outline, label: "Generate Outlines" },
                 { value: Action.Download, label: "Download Files" },
+                { value: Action.Revise, label: "Revise Outlines" },
               ],
             }),
           catch: (cause: unknown) =>
@@ -546,6 +805,7 @@ const program = Effect.gen(function* (_) {
   return yield* Match.value(action).pipe(
     Match.when(Action.Outline, () => processQuarter),
     Match.when(Action.Download, () => downloadQuarter),
+    Match.when(Action.Revise, () => reviseQuarter),
     Match.exhaustive
   );
 });
