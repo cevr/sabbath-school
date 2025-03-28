@@ -15,6 +15,13 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
 
+    /* Module Resolution */
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*"]
+    },
+
     /* AND if you're building for a library: */
     "declaration": true,
 
