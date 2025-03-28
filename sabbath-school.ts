@@ -232,7 +232,7 @@ const formatLogPrefix = (
 ) =>
   `[${current.toString().padStart(2, "0")}/${total
     .toString()
-    .padStart(2, "0")}][${year}][${quarter}][${week
+    .padStart(2, "0")}][${year}][Q${quarter}][W${week
     .toString()
     .padStart(2, "0")}] - `;
 
