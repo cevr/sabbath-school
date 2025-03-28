@@ -23,20 +23,6 @@ dotenv.config();
 const LESSON_PDF_FILENAME = "lesson.pdf";
 const EGW_PDF_FILENAME = "egw.pdf";
 
-type MessageContent =
-  | string
-  | Array<{
-      type: string;
-      text?: string;
-      data?: ArrayBuffer;
-      mimeType?: string;
-    }>;
-
-interface Message {
-  role: string;
-  content: MessageContent;
-}
-
 class OutlineError extends Data.TaggedError("OutlineError")<{
   week: number;
   cause: unknown;
@@ -77,11 +63,9 @@ class ReviseError extends Data.TaggedError("ReviseError")<{
   cause: unknown;
 }> {}
 
-const GoogleKey = Schema.Config("GEMINI_API_KEY", Schema.NonEmptyString);
-
 class Model extends Effect.Service<Model>()("Model", {
   effect: Effect.gen(function* (_) {
-    const key = yield* GoogleKey;
+    const key = yield* Schema.Config("GEMINI_API_KEY", Schema.NonEmptyString);
     const model = createGoogleGenerativeAI({
       apiKey: key,
     })("gemini-2.5-pro-exp-03-25");
@@ -192,7 +176,8 @@ class Args extends Effect.Service<Args>()("Args", {
 
 const ensureDir = (dir: string) =>
   Effect.gen(function* () {
-    if (!fs.existsSync(dir)) {
+    const exists = yield* fileExists(dir);
+    if (!exists) {
       yield* Effect.log(`Creating directory: ${dir}`);
       yield* Effect.try({
         try: () => fs.mkdirSync(dir, { recursive: true }),
@@ -783,8 +768,8 @@ const program = Effect.gen(function* (_) {
               message: "Select an action to perform:",
               options: [
                 { value: Action.Outline, label: "Generate Outlines" },
-                { value: Action.Download, label: "Download Files" },
                 { value: Action.Revise, label: "Revise Outlines" },
+                { value: Action.Download, label: "Download Files" },
               ],
             }),
           catch: (cause: unknown) =>
