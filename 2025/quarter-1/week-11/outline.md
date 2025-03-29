@@ -1,105 +1,109 @@
-```md
-# 2024 Q1 W11
-## Lesson Title: What More Could I Have Done?
-- **Overarching Themes:** God's character (love, justice) in the Great Controversy, the sufficiency of Christ's sacrifice, the problem of evil, vindication of God.
-- **Character Focus:** Developing unwavering trust in God's goodness and love, even amidst suffering and unanswered questions, by focusing on the Cross. Recognizing that God has done everything possible for our salvation.
+# 2024 Q1 W11 - March 8-14
 
-**(Approx. 45 Minutes Total)**
+## What More Could I Have Done?
 
----
+**Overarching Theme:** The Cross: God's Unanswerable Vindication and Our Only Hope
+**Central Focus:** Comprehending the infinite sacrifice of the Cross reveals God's perfect character (Justice & Love), definitively answers Satan's accusations in the Great Controversy, and provides the sole power for our character transformation unto eternal life.
+**Key Texts:** Isaiah 5:4, Romans 3:25-26, Revelation 12:10-11, Hebrews 2:14
 
-### Introduction (Approx. 6 minutes)
-
-*   **Objective:** Introduce the central question posed by the lesson – God's response to evil and suffering, framed by His ultimate act of love at the Cross.
-*   **Opening:** Briefly touch upon the universal questions: Why does a good God allow suffering? Has God done enough?
-    *   Relate to the story of Denis (Lesson Intro): Misunderstanding the king's motives led to hatred, but truth brought freedom. Similarly, misunderstanding God's actions in the Great Controversy can lead to distrust.
-*   **Central Question:** Introduce Isaiah 5:4 - "What more could have been done to My vineyard that I have not done in it?" This question echoes through the history of redemption.
-*   **Lesson Aim:** This week, we explore how God, through Christ and especially the Cross, definitively answers this question, demonstrating His boundless love and perfect justice, leaving nothing undone for our salvation.
-*   **Memory Text:** John 18:37 (NKJV) - "Pilate therefore said to Him, ‘Are You a king then?’ Jesus answered, ‘You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.’”
-    *   Connect: Jesus came to reveal the truth about God's character and kingdom, countering the lies about Him.
+**(Estimated Time: 45 Minutes Total)**
 
 ---
 
-### Sunday: Christ the Victor (Approx. 9 minutes)
+**I. Introduction (5-7 mins)**
+_ Hook: Begin with God's poignant question from Isaiah 5:4 - "What more could have been done to My vineyard that I have not done in it?" Ask: Have you ever felt misunderstood despite doing your best? Imagine God feeling this on a cosmic scale.
+_ Theme Introduction: Today, we explore the profound answer to this question – the Cross of Christ. It's not just a historical event; it's the centerpiece of the Great Controversy, God's ultimate self-vindication against Satan's lies. \* _(Whiteboard: Write Main Theme Title: The Cross: God's Ultimate Answer)_
+_ Connection to Character/Eternity: Understanding the Cross is paramount. It reveals the depth of God's character we are called to reflect (sanctification) and provides the power to overcome, making us ready for Christ's soon return.
+_ Roadmap: We'll examine (1) The Heartbreak Behind the Question, (2) The Cross as God's Definitive Answer, and (3) How We Live in the Victory of that Answer.
 
-*   **Central Point:** Jesus, the true King, confronts and defeats Satan (the usurper) by revealing truth and demonstrating God's character.
-*   **Bible Study:**
-    *   **Satan's Roles:** Briefly list Satan's descriptions: Deceiver (Rev 12:9), Slanderer/Accuser (Rev 12:10), Usurping Ruler (John 12:31, 14:30). He misrepresents God's character and government.
-        > *"[Satan] tempts men to distrust God's love and to doubt His wisdom. He is constantly seeking to excite a spirit of irreverent curiosity, a restless, inquisitive desire to penetrate the secrets of divine wisdom and power."* (PP 54.1)
-    *   **Christ's Counter-Work (John 18:37):** Jesus came "to bear witness to the truth." His entire life and ministry revealed the Father's true character of love and justice, directly countering Satan's lies.
-    *   **Christ's Victory:**
-        *   Testifies to Truth (John 18:37).
-        *   Demonstrates God's Righteousness/Love via Cross (Rom 3:25-26, 5:8). This disproves Satan's slanders (Rev 12:10-11).
-        *   Will Ultimately Destroy Satan's Kingdom (Rev 12:12, Rom 16:20, Rev 11:15).
-*   **Character Application:** We are in a spiritual war, but Christ has already secured the victory. Our daily choices align us with either the Victor or the defeated foe. We must actively claim Christ's victory and promises moment by moment.
-    > *"The government of God is not, as Satan would make it appear, founded upon a blind submission, an unreasoning control. It appeals to the intellect and the conscience. 'Come now, and let us reason together' is the Creator's invitation..."* (SC 43.3)
+**II. The Heartbreak Behind the Question: God's Vineyard & Satan's Lies (10 mins)**
+_ **A. God's Loving Investment & Painful Result (Isa 5:1-4):**
+_ Core Teaching Point: God, like a loving vinedresser, invested everything in His creation (represented by Israel, but applicable universally), desiring good fruit (righteous character, loving obedience). Yet, He received "wild grapes" (sin, rebellion, misrepresentation of His character).
+_ Biblical Foundation: Isaiah 5:1-4 - Detail God's careful preparation (cleared stones, choice vine, tower, winepress). Contrast His expectation with the bitter reality. This reflects God's sorrow over sin.
+_ EGW Insight: "God in His Son had been seeking fruit, and had found none... They were not merely useless, but a decided hindrance. To a great degree their religion was misleading, and wrought ruin instead of salvation." (COL 215.1). \* Application/Problem Tackled: We see the root of the Great Controversy: Satan slanders God, claiming He is restrictive, unfair, unloving. Sinful choices ("wild grapes") seem to validate these lies, causing divine sorrow.
+
+    *   **B. Satan's Underlying Accusation:** [*]
+        *   Core Teaching Point: The enemy subtly (and overtly) questions God's justice and love. Can God be both just (upholding His perfect Law) and merciful (forgiving sinners)? Satan says no.
+        *   Biblical Foundation: Genesis 3:1-5 (Questioning God's word/goodness); Job 1:9-11 (Accusing God's people of selfish motives); Rev 12:10 (The Accuser).
+        *   Application/Obstacles to Depth: We struggle to trust God fully when we see suffering or face temptation, sometimes echoing Satan's doubts about God's goodness or fairness.
+
+    *   ***Illustrative Speaking Notes (Choose 1):***
+        *   *Analogy:* A master artist creates a beautiful sculpture, pouring heart and soul into it, only to have it deliberately defaced. Imagine the artist's grief – this mirrors God's pain over sin.
+        *   *Hypothetical:* A parent provides everything for a child – love, home, education, guidance – yet the child chooses rebellion and publicly dishonors the parent. This reflects the vineyard scenario.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* VINEYARD / ACCUSER
+        *   *Diagram:* Heartbroken Face beside "Wild Grapes" symbol (≠ Good Grapes)
+        *   *Verse:* Isa 5:4 ("What more...?")
+        *   *Question:* God: Just OR Loving? (Satan's False Dichotomy)
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* In Isaiah 5, what are some specific things God did for His vineyard?
+        *   *(Reflection):* Why do you think people (like Israel, or even us today) sometimes produce "wild grapes" despite God's blessings?
+        *   *(Application):* How can remembering God's loving investment, even when we fail, help us combat Satan's lies about His character?
+
+**III. The Cross: God's Definitive Answer & Vindication (15 mins)**
+_ **A. Demonstrating Perfect Justice AND Perfect Love (Rom 3:25-26):**
+_ Core Teaching Point: The Cross is God's genius! Here, His absolute hatred for sin (justice demanding death) and His infinite love for sinners (providing a Substitute) meet perfectly. God remains just WHILE justifying believers.
+_ Biblical Foundation: Rom 3:25-26 - Explain "propitiation" (satisfying God's justice) and "demonstration of His righteousness." God didn't ignore sin; He absorbed its penalty Himself in Christ. Rom 5:8 emphasizes this love ("while we were still sinners").
+_ EGW Insight: "The atonement of Christ is not a mere skillful way to have our sins pardoned; it is a divine remedy for the cure of transgression and the restoration of spiritual health. It is the Heaven-ordained means by which the righteousness of Christ may be not only upon us but in our hearts and characters." (6BC 1074.4). \* Application/Problem Tackled: The Cross silences Satan's claim that God is either unjust or unloving. He is perfectly both. It answers the question "What more could He do?" with a resounding: NOTHING MORE.
+
+    *   **B. Defeating the Accuser and the Power of Death (Heb 2:14; Rev 12:10-11):**
+        *   Core Teaching Point: By dying, Christ entered Satan's domain (death) and broke its power, disarming the enemy. The Cross provides the basis for Satan's ultimate eviction from heaven and defeat.
+        *   Biblical Foundation: Heb 2:14 - Christ partook of flesh and blood to "destroy him who had the power of death, that is, the devil." Rev 12:10-11 - Satan is cast down "by the blood of the Lamb."
+        *   EGW Insight: "By shedding the blood of the Son of God, he [Satan] had uprooted himself from the sympathies of the heavenly beings. Henceforth his work was restricted." (DA 761 - from lesson context). "[W]ith the mighty argument of the cross, Christ silences the bold accuser." (COL 168.3).
+        *   Application/Character Trait Focus: Understanding this victory gives us confidence. Christ's sacrifice provides the power for developing faithfulness, courage, and unwavering trust in God, even amidst accusation or trial.
+
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* A King pays an impossible ransom (His own Son's life) to free slaves from a cruel tyrant, simultaneously satisfying justice (a price was paid) and showing immense love.
+        *   *Courtroom Drama:* Imagine a cosmic trial. Satan presents accusations against God. The Cross is presented as Exhibit A – irrefutable evidence of God's perfect character, silencing the prosecution.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* VINDICATION / PROPITIATION
+        *   *Diagram:* Cross with arrows pointing to "JUSTICE" and "LOVE" – both satisfied.
+        *   *Verse:* Rom 3:26 ("just and the justifier") / Heb 2:14 ("destroy... the devil")
+        *   *Quote Snippet:* "...silences the bold accuser." (COL 168.3)
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Recall):* According to Romans 3, what did the Cross "demonstrate" about God?
+        *   *(Reflection):* How does the fact that God Himself, in Christ, paid the price for our sins change how you view His Law and His love?
+        *   *(Application):* When you feel accused by Satan (or your own conscience), how can remembering the victory won at the Cross give you strength and peace?
+
+**IV. Our Response: Living in the Victory of the Cross (10 mins)** [*]
+_ **A. Overcoming by the Blood and Our Testimony (Rev 12:11):**
+_ Core Teaching Point: The victory won at the Cross becomes ours personally when we (1) claim the cleansing power of Christ's blood (His merits covering our sin) and (2) bear witness to His truth in our lives and words.
+_ Biblical Foundation: Rev 12:11 - "They overcame him by the blood of the Lamb and by the word of their testimony..." 1 John 1:7, 9 - Continual cleansing through His blood.
+_ EGW Insight: "We are safe only in following where Christ leads the way... Man's business is to work in cooperation with God... We must know that the hand of Jesus Christ holds our own firmly." (HP 258.4). \* Application/Character Trait Focus: This calls for humility (recognizing our need for His blood) and courage (testifying for Him). It builds dependence on Christ, not self.
+
+    *   **B. The Cross Empowers Character Perfection for Eternity:**
+        *   Core Teaching Point: The Cross doesn't just pardon; it empowers transformation. Trusting fully in Christ's sacrifice breaks sin's hold and enables the Holy Spirit to develop His character in us, fitting us for heaven.
+        *   Biblical Foundation: Gal 2:20 (Crucified with Christ, live by faith); 2 Cor 5:17 (New creation in Christ); Phil 1:6 (He who began a good work will complete it).
+        *   EGW Insight: "The righteousness of Christ may be not only upon us but in our hearts and characters." (6BC 1074.4). "He desires that man... shall reach the highest possible development... He invites us to give ourselves to Him, that He may work His will in us." (SC 43.3).
+        *   Application/End-Time Relevance: This character transformation IS readiness for Christ's return. Reflecting Jesus fully is the goal, made possible only through the power accessed via the Cross.
+
+    *   ***Illustrative Speaking Notes (Choose 1):***
+        *   *Metaphor:* The Cross is like the key that unlocks the powerhouse (Holy Spirit) enabling us to live a victorious Christian life. Without the key, we remain powerless.
+        *   *Analogy:* A rescued climber doesn't just celebrate being saved; they learn from the rescuer how to climb safely and strongly, becoming like their rescuer. We learn from Christ how to live His character.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* OVERCOME / TRANSFORMATION
+        *   *Diagram:* Cross -> Power -> Christlike Character -> Heaven
+        *   *Verse:* Rev 12:11 / Gal 2:20
+        *   *Question:* Daily Surrender?
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* According to Revelation 12:11, what are the two things the saints used to overcome Satan?
+        *   *(Reflection):* Why is it essential to understand that the Cross provides power for *living* righteously, not just forgiveness for *past* sins?
+        *   *(Application):* What does "working in cooperation with God" (HP 258.4) look like practically in your daily battle against sin, relying on the Cross?
+
+**V. Conclusion & Appeal (5-8 mins)**
+_ Summary: God's question, "What more could I have done?" finds its ultimate, unanswerable reply at Calvary. The Cross perfectly vindicates His justice and love, defeats Satan, and offers us complete salvation and transformation.
+_ Character Focus Recap: God calls us to reflect His character of love and righteousness. The Cross is not only the standard but the _source_ of power to achieve this high calling. \* _(Whiteboard: Key Character Trait: FAITHFULNESS through His Power)_
+_ Call to Action/Decision: Have you fully accepted the infinite gift offered at the Cross? Will you cease striving in your own strength and rely wholly on Christ's merits for forgiveness AND power to overcome? Choose today to surrender completely to Him.
+_ _(Whiteboard: Call to Action Keyword: SURRENDER / TRUST)_ \* _(Optional Final Question):_ "What doubt or struggle will you consciously bring to the foot of the Cross this week, trusting His victory?" (Lead into prayer)
+* Final Thought/Urgency & Hope: The conflict is real, Christ's return is near. Let the Cross be your constant assurance and strength. "We shall know that infinite love ordered the experiences that seemed most trying... we shall rejoice with joy unspeakable and full of glory." (9T 286.2). He *has* done everything needed. Trust Him.
+* _(Whiteboard: Final Verse Ref or Hope phrase: Phil 1:6 / "He Finishes His Work!")_
 
 ---
 
-### Monday: The Just and the Justifier (Approx. 9 minutes)
-
-*   **Central Point:** The Cross is the ultimate demonstration of God's perfect justice and unfathomable love, silencing Satan's accusations against God's character and government.
-*   **Bible Study:**
-    *   **Undoing Satan's Work (1 John 3:8, Heb 2:14):** Jesus came specifically to destroy the devil's works and power.
-    *   **God's Righteousness Revealed (Rom 3:23-26):** All have sinned. God presented Christ as a sacrifice of atonement (propitiation). Through faith in His blood, God demonstrates His righteousness. He is both "just and the justifier" of those who have faith in Jesus. The Cross upholds the Law while providing mercy.
-    *   **God's Love Demonstrated (Rom 5:8):** "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us." The Cross is the irrefutable proof of God's love against Satan's claims that God is selfish or uncaring.
-    *   **Cosmic Significance (Rev 12:10-12 cf. Gen 3:15):** The accuser is cast down "by the blood of the Lamb." The Cross was the decisive battle, exposing Satan's true character.
-        > *"After the death of Jesus, 'Satan saw that his disguise was torn away. His administration was laid open before the unfallen angels and before the heavenly universe. He had revealed himself as a murderer. By shedding the blood of the Son of God, he had uprooted himself from the sympathies of the heavenly beings.'"* (DA 761.2)
-        > *"The atonement of Christ is not a mere skillful way to have our sins pardoned; it is a divine remedy for the cure of transgression and the restoration of spiritual health. It is the Heaven-ordained means by which the righteousness of Christ may be not only upon us but in our hearts and characters."* (6BC 1074.6)
-*   **Character Application:** Reflecting on the Cross builds confidence in God's love, even amid trials. It assures us that God is trustworthy and His ways are just, even when we don't fully understand. This understanding helps us endure suffering with faith.
-
----
-
-### Tuesday & Wednesday: The Song of My Beloved & Christ's Parable (Approx. 10 minutes)
-
-*   **Central Point:** God, like the vineyard owner, has done everything possible, culminating in giving His own Son, to bring forth righteousness and love in humanity.
-*   **Bible Study:**
-    *   **Isaiah's Song (Isa 5:1-4):**
-        *   God (Beloved/Owner) established His vineyard (Israel/humanity).
-        *   He did everything necessary: cleared stones, planted choice vines, built a tower, dug a winepress. Expectation: good grapes.
-        *   Result: "wild grapes" (stinkfruit/worthless).
-        *   **The Question (v. 4):** "What more could have been done to My vineyard That I have not done in it?" God invites judgment on His actions.
-            > *"God in His Son had been seeking fruit, and had found none. Israel was a cumberer of the ground... It robbed the world of the blessings that God designed to give."* (COL 215.1)
-    *   **Christ's Parable (Matt 21:33-39):**
-        *   Jesus expands on Isaiah 5. Owner leases vineyard to vinedressers (leaders/humanity).
-        *   Servants (prophets) sent to collect fruit are beaten and killed.
-        *   **The Ultimate Act:** Owner sends his Son, believing "They will respect my son."
-        *   Result: They kill the Son to seize the inheritance.
-    *   **The Cross as the Answer:** What more could God do than give His Son (John 3:16)? The Cross demonstrates God did everything possible within the framework of love and free will.
-        > *"Could God give us any greater proof of His love than in thus giving His Son to pass through this scene of suffering?... He requires all that it is possible for man to give. The submission on our part must be proportionate to the gift of God; it must be complete and wanting in nothing."* (3T 369.1)
-    *   **God's Suffering (Isa 53:4):** "Surely He has borne our griefs And carried our sorrows." Christ, God Himself, bore the cost of sin. The pain of sin affects God most deeply.
-        > *"In yielding up His precious life, Christ was not upheld by triumphant joy. All was oppressive gloom... Christ was the prince of sufferers; but His suffering was from a sense of the malignity of sin..."* (DA 752.4)
-*   **Character Application:** The Cross leaves no room to doubt God's love or effort. When facing difficulties, remember the infinite price paid. This fosters gratitude and deepens our commitment, knowing God held nothing back.
-
----
-
-### Thursday: The Vindication of God's Name [*] (Approx. 5 minutes)
-
-*   **Central Point:** The entire plan of redemption, centered on the Cross and culminating in the judgment, serves to vindicate God's character (His name) of love and justice before the universe.
-*   **Bible Study:**
-    *   **God Invites Scrutiny (Isa 5:3, Rom 3:4):** God allows His actions to be judged ("That You may be justified in Your words, And may overcome when You are judged"). He is confident in His righteousness.
-    *   **Universal Vindication (Rev 15:3-4, Rev 19:1-2):** At the end, all creation will acknowledge God's ways: "Just and true are Your ways, O King of the saints!" His judgments are revealed as righteous.
-    *   **Why Vindication Matters:** Satan attacked God's name (character). Trust and love relationships require confidence in character. God's vindication restores universal harmony based on truth.
-        > *"In the plan of redemption there must be the shedding of blood, for death must come in consequence of man's sin... And thus Christ would fully vindicate His Father's law."* (Con 21.2)
-    *   **Our Role (1 Cor 6:2-3, 1 Cor 4:5):** Even the redeemed participate in the final judgment phases, reviewing God's justice and love, having all questions answered.
-    *   **Ultimate Confession (Phil 2:10-11):** Every knee will bow, acknowledging Jesus is Lord, to the glory of God the Father.
-*   **Character Application:** Understanding that God's character will be fully vindicated gives us patience and trust now. We can rest assured that apparent injustices or unanswered questions will ultimately be resolved, revealing God's perfect love and righteousness. This strengthens our faith during perplexing times.
-
----
-
-### Conclusion (Approx. 6 minutes)
-
-*   **Summary:** We've explored the profound question, "What more could God have done?" The consistent answer from Scripture points to the Cross.
-    *   Christ came as Victor, revealing truth and defeating Satan's lies.
-    *   The Cross demonstrated God as both Just and Justifier, proving His perfect love and righteousness.
-    *   The parables of the vineyard show God lavishing care, ultimately giving His Son.
-    *   The entire plan vindicates God's glorious name before the universe.
-*   **The Unanswered Questions:** While the Cross is the ultimate answer, mysteries remain in our finite understanding.
-    > *"All that has perplexed us in the providences of God will in the world to come be made plain... Where our finite minds discovered only confusion and broken promises, we shall see the most perfect and beautiful harmony. We shall know that infinite love ordered the experiences that seemed most trying."* (9T 286.2)
-*   **Character Takeaway:** The core issue is trust. Can we trust the God revealed at Calvary, even when we don't understand everything? Seeing what God *has* done gives us confidence in His love and wisdom for what we *don't* see. Our character is refined as we choose to trust Him based on the evidence of the Cross.
-*   **Final Appeal:** Let the Cross settle the question in your heart. God has done everything. He loves you infinitely. Choose daily to live on the Victor's side, trusting His heart even when you cannot trace His hand. Let His love transform your character into His likeness.
-    > *"We are safe only in following where Christ leads the way... If we would walk without fear, we must know that the hand of Jesus Christ holds our own firmly. And we can only know this by searching the Word of the living God."* (HP 258.4-5)
-
----
-*Sections marked with [*] can be condensed if time is limited by focusing primarily on the Cross as the central element of vindication.*
-```
+_Sections marked with [_] can be condensed if time is limited, focusing effort on the core complex elements (presented simply) and allowing at least one brief discussion point.\*

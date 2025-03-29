@@ -436,7 +436,20 @@ const reviseText = (
             { role: "user", content: reviewCheckUserPrompt(text) },
           ],
           schema: z.object({
-            shouldRevise: z.boolean(),
+            needsRevision: z
+              .boolean()
+              .describe("Whether the outline needs revision"),
+            revisionPoints: z
+              .array(z.string())
+              .describe(
+                "Specific points where the outline FAILS to meet the prompt requirements"
+              ),
+            comments: z
+              .string()
+              .optional()
+              .describe(
+                "Optional: Brief overall comment on the adherence or specific strengths/weaknesses, but keep it concise"
+              ),
           }),
         }),
       catch: (cause: unknown) =>
@@ -446,9 +459,9 @@ const reviseText = (
         }),
     });
 
-    const shouldRevise = reviewResponse.object.shouldRevise;
+    const needsRevision = reviewResponse.object.needsRevision;
 
-    if (!shouldRevise) {
+    if (!needsRevision) {
       yield* Effect.log(
         `${formatLogPrefix(
           current,
@@ -477,7 +490,10 @@ const reviseText = (
           model,
           messages: [
             { role: "system", content: reviewCheckSystemPrompt },
-            { role: "user", content: reviewUserPrompt(text) },
+            {
+              role: "user",
+              content: reviewUserPrompt(reviewResponse.object, text),
+            },
           ],
         }),
       catch: (cause: unknown) =>

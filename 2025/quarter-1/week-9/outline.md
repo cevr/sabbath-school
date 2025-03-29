@@ -1,97 +1,110 @@
 ```md
-# 2024 Q1 W9
+# 2024 Q1 W09 - February 22-28
 ## The Cosmic Conflict
-- **Overarching Themes:** The Great Controversy, Origin of Evil, God's Character, Satan's Rebellion, Free Will, Our Role in the Conflict, Christ's Victory.
 
-**Time Allocation Guide:** (Total 45 mins)
-- Introduction: 6 mins
-- An Enemy Has Done This: 9 mins [*]
-- The Origin of the Controversy: 11 mins [*]
-- The Nature of the Conflict: 10 mins
-- Conclusion & Application: 9 mins
+**Overarching Theme:** The Great Controversy: Vindicating God's Character and Perfecting Ours for Eternity
+**Central Focus:** Understanding the origin and nature of the conflict between Christ and Satan to unmask deception, embrace God's true character of love and justice, and cooperate with Christ for the perfection of our own characters in preparation for His soon return.
+**Key Texts:** Genesis 3:15; Ezekiel 28:12-17; Isaiah 14:12-15; John 8:44; Revelation 12:7-11
+
+**(Estimated Time: 45 Minutes Total)**
 
 ---
 
-### Introduction (6 mins)
+**I. Introduction (5-7 mins)**
+    *   Hook: "Have you ever felt like you're in the middle of a battle you can't always see? Scripture tells us that's exactly where we are – a cosmic conflict with eternal stakes."
+    *   Theme Introduction: State the profound theme: The Great Controversy isn't just a doctrine; it's the lens through which we understand reality, suffering, salvation, and God's ultimate purpose. Understanding its depth is vital today.
+        *   *(Whiteboard: Write Main Theme Title: THE GREAT CONTROVERSY: God's Character & Ours)*
+    *   Connection to Character/Eternity: This conflict is fundamentally about God's character of love and justice, which Satan has misrepresented. Our response involves vindicating God by reflecting His character through Christ's power – this is sanctification, essential for readiness.
+    *   Roadmap: Briefly outline: 1. The Origin in Heaven (Why?), 2. The Conflict on Earth (How?), 3. Our Role & Victory (What Now?).
 
-*   **Greeting & Prayer:** Welcome class, open with prayer asking for the Holy Spirit's guidance.
-*   **The Central Theme:** Introduce the concept of the "Great Controversy" – the overarching conflict between Christ and Satan that forms the backdrop of all Scripture and human history. This isn't just a side story; it's the main plot.
-    *   Define: What do we mean by "Cosmic Conflict" or "Great Controversy"? It's a struggle not primarily of physical force, but over God's character, His law, His government, and the allegiance of His creatures.
-*   **Why It Matters:** Understanding this conflict is crucial. It helps us make sense of suffering, evil, and temptation in the world and in our own lives. It reveals the stakes involved in our choices and anchors our hope in Christ's ultimate victory.
-    *   "Central to biblical theology is the great controversy between Christ and Satan." (Lesson Intro)
-*   **Memory Text:** **Genesis 3:15 (NKJV):** “And I will put enmity between you and the woman, and between your seed and her Seed; He shall bruise your head, and you shall bruise His heel.”
-    *   This is the *protoevangelium* – the first gospel promise, given right after the fall. It encapsulates the entire conflict: enmity, two opposing sides (seed of the woman vs. seed of the serpent), struggle (bruising), and the ultimate victory of Christ (crushing the serpent's head).
-*   **Lesson Goal:** Today, we will explore the biblical basis for this conflict: where it began, what it's about, and how it impacts us. Our goal is to deepen our understanding and strengthen our commitment to Christ, whose character is the standard we strive to emulate.
+**II. The Origin & Nature: A Perfect Creation Marred by Pride (12-15 mins)**
+    *   **A. Lucifer's Perfection and Fall:**
+        *   Core Teaching Point: Sin originated not with God, but with a perfect, free-will being, Lucifer, who chose self-exaltation over love and loyalty to his Creator.
+        *   Biblical Foundation: Ezekiel 28:12-15, 17 ("perfect in thy ways... till iniquity was found in thee... Thine heart was lifted up because of thy beauty"). Isaiah 14:12-14 ("I will exalt my throne... I will be like the most High").
+        *   EGW Insight: "Lucifer was envious and jealous of Jesus Christ... He aspired to the height of God Himself. He gloried in his loftiness." (SR 14). Sin is "mysterious, unaccountable; to excuse it is to defend it." (GC 492).
+        *   Application/Problem Tackled: Addresses the question "Where did evil come from?" – not from God, but from the misuse of the precious gift of free will, rooted in pride.
 
-### Sunday: An Enemy Has Done This (9 mins) [*]
+    *   **B. The Core Issue: Slander Against God's Character & Law:** [*]
+        *   Core Teaching Point: Satan's rebellion wasn't just about position; it was an attack on God's character (claiming He is unjust, arbitrary, unloving) and His law (claiming it's restrictive).
+        *   Biblical Foundation: John 8:44 ("He was a murderer from the beginning... he is a liar and the father of it"). Revelation 12:10 ("the accuser of our brethren... who accused them before our God day and night").
+        *   EGW Insight: "Satan had made it appear that he himself was seeking to promote the good of the universe. The true character of the usurper... must be understood by all... Evil must be permitted to come to maturity... that the justice and mercy of God and the immutability of His law might forever be placed beyond all question." (GC 498).
+        *   Application/Obstacles to Depth: We face the same lies today – doubts about God's goodness, fairness, or the relevance of His law. Recognizing the source helps us resist.
 
-*   **The Problem:** The existence of evil in a world created by a good God. How can both be true? (Gen 1:31 - "very good"). This is a question that troubles many.
-*   **Biblical Illustration:** Parable of the Wheat and Tares (Matthew 13:24-30, 37-40)
-    *   **Setup:** A landowner sows good seed (v. 24). God created perfectly.
-    *   **Problem:** Tares (weeds resembling wheat) appear among the good crop (vv. 25-26). Evil emerges in God's creation.
-    *   **Question:** "Sir, did you not sow good seed...? How then does it have tares?" (v. 27). Where did evil come from?
-    *   **Answer:** "An enemy has done this" (v. 28). Evil is not from God; it originates from an opposing force.
-    *   **Identification:** Jesus explicitly identifies the players:
-        *   Sower of good seed = Son of Man (Jesus) (v. 37)
-        *   Field = The world (v. 38)
-        *   Good seed = Children of the kingdom (v. 38)
-        *   Tares = Children of the wicked one (v. 38)
-        *   Enemy who sowed them = The devil (v. 39)
-*   **God's Response (Why not uproot now?):** (vv. 28-30)
-    *   The servants want to remove the tares immediately. Why doesn't God eradicate evil instantly?
-    *   Risk of collateral damage: Uprooting tares might uproot wheat too. Premature judgment could harm the righteous or cut short opportunities for repentance.
-    *   God's patience and forbearance allow time for character development and for the true nature of both good and evil to be fully revealed.
-    *   "As the tares have their roots closely intertwined with those of the good grain, so false brethren in the church may be closely linked with true disciples... Were they to be separated from the church, others might be caused to stumble..." (COL 71.3)
-    *   The final separation happens at the harvest (end of the age) (v. 30, 39-40).
-*   **Character Connection:** This teaches us patience and forbearance, mirroring God's character. We must be cautious in judging others, recognizing that only God knows the heart (COL 71.2). However, it doesn't mean ignoring evil; we must stand for truth while trusting God's timing for ultimate justice.
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* Imagine a brilliant, trusted prime minister in a perfect kingdom. Given freedom, he grows proud, envies the King's Son, and starts spreading subtle lies among the citizens that the King's laws are unfair and the King is selfish, seeking only his own glory. This sows discord and rebellion based on deception.
+        *   *Metaphor:* Pride is like a spiritual cancer; it starts small in a seemingly healthy cell (Lucifer's perfection) but grows to corrupt the entire being and seeks to metastasize.
 
-### Monday & Tuesday: The Origin of the Controversy (11 mins) [*]
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* PRIDE / SELF-EXALTATION
+        *   *Diagram:* Lucifer (Perfect/Free Will) -> Pride -> Sin -> Satan (Liar/Accuser)
+        *   *Verse:* Ezek 28:15 / Isa 14:13-14
+        *   *Quote Snippet:* "...heart lifted up..." (Ezek 28:17) / "...accuser..." (Rev 12:10)
 
-*   **From Earth to Heaven:** The parable shows *how* evil entered the *world*, but where did the "enemy" himself come from? Genesis 3 shows the serpent (Satan, Rev 12:9) already present and opposing God *before* the human fall. Evil existed before humanity sinned.
-*   **Biblical Foundation - Lucifer's Fall:**
-    *   **Ezekiel 28:12-19:** Though addressed to the King of Tyre, the description transcends any human king and points to a higher being.
-        *   Original State: "seal of perfection, full of wisdom and perfect in beauty," "in Eden, the garden of God," "anointed cherub that covereth," "perfect in thy ways from the day that thou wast created" (vv. 12-15). Lucifer was a being of highest honor, created perfect by God.
-        *   The Fall: "till iniquity was found in thee" (v. 15). What was the iniquity? Pride and self-exaltation. "Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness" (v. 17). His "trading" (v. 16) can also mean slander – misrepresenting God.
-        *   "Sin originated with him who, next to Christ, had been most honored of God and who stood highest in power and glory among the inhabitants of heaven." (GC 493.2)
-    *   **Isaiah 14:12-15:** Describes the ambition of "Lucifer, son of the morning."
-        *   The Desire: "I will ascend into heaven, I will exalt my throne above the stars of God... I will ascend above the heights of the clouds, I will be like the Most High" (vv. 13-14). This was a direct challenge to God's authority and position, born of pride and a desire for self-worship.
-        *   "Instead of seeking to make God supreme in the affections and allegiance of His creatures, it was Lucifer's endeavor to win their service and homage to himself." (GC 494.1)
-*   **The Root Cause:** Pride, self-exaltation, coveting God's position and authority, discontent with his own exalted place. This led to misrepresenting God's character (slander) to other angels.
-*   **The Mystery of Iniquity & Free Will:** How could a perfect being sin?
-    *   Perfection included free moral agency – the ability to choose. Without freedom, love and allegiance would be forced and meaningless.
-    *   "Sin is an intruder, for whose presence no reason can be given. It is mysterious, unaccountable; to excuse it is to defend it." (GC 492.3) God is not responsible for sin's origin. Lucifer chose rebellion.
-*   **Character Connection:** The origin of sin is a stark warning against pride and self-sufficiency. Humility, gratitude, and contentment with God's place for us are essential safeguards. Recognizing our dependence on God is key to reflecting His character.
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* "According to Ezekiel 28, what was Lucifer like *before* sin was found in him?"
+        *   *(Reflection):* "Why was it necessary for God to allow Satan time to reveal his true character, rather than destroying him immediately? (Ref GC 498)"
+        *   *(Application):* "In what subtle ways might pride or questioning God's goodness manifest in our own hearts or attitudes today?"
 
-### Wednesday & Thursday: The Nature of the Conflict (10 mins)
+**III. The Conflict on Earth & In Us: Deception vs. Truth (10-12 mins)**
+    *   **A. The Battleground Shifts: Eden and Humanity:**
+        *   Core Teaching Point: Satan brought the conflict to Earth by deceiving our first parents, again attacking God's character ("Has God indeed said...?") and His word ("You will not surely die").
+        *   Biblical Foundation: Genesis 3:1-7 (The Temptation and Fall). Genesis 3:15 (The Protoevangelium - promise of conflict and ultimate victory through Christ, the Seed).
+        *   EGW Insight: "The instant man accepted the temptations of Satan... Christ, the Son of God, stood between the living and the dead, saying, 'Let the punishment fall on Me. I will stand in man's place. He shall have another chance.'" (1BC 1085).
+        *   Application/Character Trait Focus: The battle requires discernment, trust in God's Word over feelings or appearances, and immediate reliance on Christ's promised victory.
 
-*   **Not Just Power, but Principle:** The conflict isn't merely about who is stronger; God's omnipotence is unquestioned. It's a conflict over *character*, *truth*, and *love*. Is God just? Is His law good? Can He be trusted?
-    *   "In His dealing with sin, God could employ only righteousness and truth. Satan could use what God could not—flattery and deceit." (GC 498.2)
-*   **Satan's Strategy: Deception and Slander**
-    *   **In Eden (Gen 3:1-5):** Questioned God's word ("Has God indeed said...?"), denied God's truth ("You will not surely die"), misrepresented God's motives ("God knows... you will be like God"). He painted God as restrictive, untruthful, and selfish.
-    *   **Against God's People (Rev 12:10):** He is the "accuser of our brethren," constantly pointing out flaws and misrepresenting their motives before God.
-    *   **Against Christ (Matt 4:1-11):** The temptation in the wilderness reveals the core issues:
-        *   **Temptation 1 (Stones to Bread):** Questioning God's care and provision; urging self-reliance over trust. Jesus counters with Deut 8:3 – dependence on God's Word.
-        *   **Temptation 2 (Temple Pinnacle):** Twisting Scripture (Ps 91:11-12) to incite presumption and test God. Jesus counters with Deut 6:16 – do not tempt God.
-        *   **Temptation 3 (Worship Satan):** The ultimate goal revealed – Satan seeks the worship due only to God (v. 9). He claims authority over the world (Luke 4:6). Jesus counters with Deut 6:13 – worship and serve God alone.
-    *   **Jesus' Assessment (John 8:44):** Satan "was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it." His very nature is deception, rooted in his rebellion against the God of Truth.
-*   **God's Strategy: Truth and Love**
-    *   God reveals His true character through His actions, His Word, and supremely through Jesus Christ (John 14:9).
-    *   Christ came to "testify to the truth" (John 18:37) and destroy the works of the devil (1 John 3:8) by living a life of perfect obedience and love, culminating in the cross.
-    *   The cross exposed Satan's lies and vindicated God's character of self-sacrificing love and perfect justice. (DA 761)
-*   **Character Connection:** We are involved in this battle of truth vs. error daily. Whose voice do we listen to? Whose character do we believe? Our choices reflect whether we believe Satan's lies about God or trust God's revelation of Himself. We fight not with carnal weapons, but with the "sword of the Spirit, which is the word of God" (Eph 6:17), and by developing a character aligned with Christ's.
+    *   **B. Christ's Example: Victory Through God's Word:** [*]
+        *   Core Teaching Point: Jesus met Satan's temptations directly, demonstrating the method of victory: unwavering trust in God and reliance on the authority of Scripture ("It is written").
+        *   Biblical Foundation: Matthew 4:1-11 (The Wilderness Temptations). Hebrews 2:14 (Christ partook of flesh and blood to destroy the devil).
+        *   EGW Insight: "Jesus met the tempter with the rebuke, 'Get thee behind Me, Satan.' He was to bow only to His Father... He chose His life of suffering and His dreadful death, as the way appointed by His Father that He might become a lawful heir..." (EW 157).
+        *   Application/End-Time Relevance: As temptations intensify in the last days, our only safety is in knowing and obeying God's Word, just as Jesus did.
 
-### Conclusion & Application (9 mins)
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Metaphor:* The Bible is our sword in this spiritual warfare (Eph 6:17). Jesus showed us how to wield it effectively against the enemy's attacks, which are often subtle twists of truth or appeals to appetite and pride.
+        *   *Hypothetical Example:* Imagine being offered a shortcut to success that involves slightly compromising your principles. Satan presented this to Christ (worship me for the kingdoms). Recognizing the source and standing firm on God's "It is written" is the only safe path.
 
-*   **The Conflict is Real and Personal:** This cosmic struggle isn't distant history; it plays out in our world and in our hearts (Eph 6:12). Every temptation is an echo of the original conflict over loyalty to God. Every choice aligns us with either Christ or Satan.
-*   **Our Part in the Vindication:** By choosing to trust and obey God, even when it's difficult, we participate in vindicating His character before the universe. Our lives become testimonies to the goodness and trustworthiness of God and the righteousness of His law. Character building *is* spiritual warfare.
-*   **The Hope of Victory:** While the battle rages, the outcome is certain. Genesis 3:15 promised the crushing of the serpent's head. Christ's life, death, and resurrection secured the victory. Satan is a defeated foe (Heb 2:14).
-    *   "Christ bowed His head and died, but He held fast His faith and His submission to God... Now is come salvation, and strength, and the kingdom of our God, and the power of His Christ: for the accuser of our brethren is cast down..." (DA 761.2, quoting Rev 12:10).
-*   **Call to Faithfulness:**
-    *   **Choose Your Side:** Consciously reaffirm your allegiance to Christ. Whose report will you believe?
-    *   **Know the Enemy:** Be aware of Satan's tactics – doubt, discouragement, deception, accusation, appeals to pride and self.
-    *   **Use Your Weapons:** Immerse yourself in Scripture, pray constantly, rely on the Holy Spirit, cultivate Christlike character (humility, love, truthfulness, obedience).
-    *   **Look to Jesus:** He is our example and our strength. His victory is our assurance.
-*   **Final Thought:** Understanding the Great Controversy should fill us not with fear, but with sober awareness and profound hope. It gives meaning to our struggles and motivates us to live lives that honor our victorious King, hastening the day when sin and Satan will be no more. Let us strive daily to reflect the character of Him who loved us and gave Himself for us.
-*   **Closing Prayer:** Pray for strength to stand firm in the conflict, for discernment to recognize truth from error, and for grace to develop characters that reflect Jesus, our Commander.
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* DECEPTION / TRUTH
+        *   *Diagram:* Satan's Lie (Gen 3:4) <-> God's Truth (Gen 2:17) -> Choice -> Consequence
+        *   *Verse:* Gen 3:15 / Matt 4:4 ("It is written")
+        *   *Question:* Whose Word?
 
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Recall):* "What phrase did Jesus repeatedly use to counter Satan's temptations in the wilderness?"
+        *   *(Reflection):* "How does Satan use similar tactics today (questioning God's Word, appealing to appetite/pride) to tempt us?"
+        *   *(Application):* "What is one practical way we can become better equipped to use the 'sword of the Spirit, which is the word of God' in our daily lives?"
+
+**IV. Our Role: Reflecting God's Character & Preparing for Victory (8-10 mins)** [*]
+    *   **A. Living as Loyal Subjects in Enemy Territory:**
+        *   Core Teaching Point: We are participants, not spectators. Our choices, faith, and obedience demonstrate whose side we are on and contribute to the vindication of God's character before the universe.
+        *   Biblical Foundation: Ephesians 6:12 ("We do not wrestle against flesh and blood..."). Revelation 12:11 ("And they overcame him by the blood of the Lamb and by the word of their testimony, and they did not love their lives to the death."). 1 John 3:8 ("He who sins is of the devil... For this purpose the Son of God was manifested, that He might destroy the works of the devil.").
+        *   EGW Insight: We must beware of judging others ("tares and wheat"), showing forbearance while remaining firmly rooted in truth. (COL 71-72). We fight "against principalities, against powers..." but are not left alone; Christ is with us. (AA 29).
+        *   Application/Character Perfection: Our daily lives become the stage where God's character is either misrepresented or reflected. Sanctification is actively choosing God's side, powered by His grace.
+
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* We are like ambassadors for a righteous King living in a rebellious province. Our conduct, our loyalty, our representation of the King's true nature speaks volumes to those watching, including unseen principalities.
+        *   *Visual Metaphor:* Our lives are meant to be mirrors reflecting the character of Christ. Sin smudges the mirror; confession and Christ's grace cleans it; sanctification is the process of keeping it clean and angled correctly to reflect Him fully.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* VICTORY / TESTIMONY / READINESS
+        *   *Diagram:* Blood of Lamb (Justification) + Word of Testimony (Sanctification) -> Overcoming (Rev 12:11)
+        *   *Verse:* Rev 12:11 / Eph 6:12
+        *   *Call:* REFLECT CHRIST
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* "According to Revelation 12:11, what three things enable believers to overcome Satan?"
+        *   *(Reflection):* "How does understanding the Great Controversy change our perspective on everyday struggles and temptations?"
+        *   *(Application):* "What does 'the word of their testimony' mean practically for us this week? How can our lives testify for Christ?"
+
+**V. Conclusion & Appeal (5-8 mins)**
+    *   Summary: Reiterate core deep takeaways (simply): The universe is in a Great Controversy originating from Satan's pride and lies against God's loving character and law. Christ has won the decisive victory, and we participate by choosing truth, trusting His Word, and allowing Him to perfect His character in us.
+    *   Character Focus Recap: Emphasize the high calling to reflect Christ's character perfectly, made possible only through His grace and power. This vindicates God and prepares us for eternity.
+        *   *(Whiteboard: Key Character Trait: FAITHFULNESS / LOVE)*
+    *   Call to Action/Decision: "Whose side will you consciously choose today? Will you believe God's Word above all else? Will you surrender your will for His transforming power to work in you?"
+        *   *(Whiteboard: Call to Action Keyword: CHOOSE / SURRENDER / REFLECT)*
+        *   *(Optional Final Question):* "What specific lie about God or yourself will you ask Christ to help you reject this week, replacing it with His truth?" (Lead into prayer)
+    *   Final Thought/Urgency & Hope: "The conflict is real, and it is nearing its end. Let us stand firm in Christ, reflecting His love and truth." "He who testifies to these things says, ‘Surely I am coming quickly.’ Amen. Even so, come, Lord Jesus!" (Rev 22:20).
+        *   *(Whiteboard: Final Verse Ref or Hope phrase: Rev 22:20 / HE IS COMING!)*
+
+---
+*Sections marked with [*] can be condensed if time is limited, focusing effort on the core complex elements (presented simply) and allowing at least one brief discussion point per section.*
 ```

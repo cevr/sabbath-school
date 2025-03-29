@@ -1,118 +1,116 @@
-# 2024 Q1 W6
-## Lesson 6: God's Love of Justice
-- **Overarching Themes**: God's Character (Love, Justice, Goodness, Righteousness, Changelessness), The Great Controversy, Character Development, Trust, Practical Righteousness.
+```md
+# 2024 Q1 W6 - February 1-7
+## God's Love of Justice
 
-**Time Allocation Guide (45 Minutes Total)**
-*   Introduction: 6 min
-*   Sunday: Love and Justice: 9 min
-*   Monday: God Is Entirely Good and Righteous: 8 min
-*   Tuesday: God's Changeless Character: 8 min [*]
-*   Thursday: Hold Fast to Love and Justice: 7 min
-*   Conclusion: 7 min
-*Sections marked with [*] can be condensed if time is limited*
+**Overarching Theme:** Vindicating God's Character: Reflecting His Changeless Love and Justice in the Final Conflict
+**Central Focus:** Understanding that God's perfect, unchanging character of love *and* justice is the foundation of His government, and our calling is to perfectly reflect this character through His power, thus vindicating Him before the universe as the final conflict closes.
+**Key Texts:** Jeremiah 9:24, Psalm 89:14, Matthew 5:48, Revelation 15:3-4
+
+**(Estimated Time: 45 Minutes Total)**
 
 ---
 
-### Introduction (6 min)
+**I. Introduction (5-7 mins)**
+    *   Hook: "How can a God of perfect love also be a God of perfect justice, especially when we see so much suffering and evil? How do these two seemingly opposite traits work together?"
+    *   Theme Introduction: Today we explore a profound truth: God's character, a perfect blend of love AND justice, is unchanging. Understanding this is key to knowing Him, and our highest calling is to reflect this character, especially now.
+        *   *(Whiteboard: Write Main Theme Title: Vindicating God's Character: Reflecting His Changeless Love & Justice)*
+    *   Connection to Character/Eternity: This isn't just theology; it's about our sanctification. Reflecting His character is the evidence of true conversion and essential preparation for Christ's soon return and eternity with Him.
+    *   Roadmap: We'll examine (1) The Foundation: God's inseparable Love and Justice, (2) The Mandate: Our call to reflect His perfection, and (3) The Vindication: Why this matters supremely in the Great Controversy.
 
-*   **Opening Illustration**: Contrast the capricious, often cruel "gods" of the ancient Near East (or modern secular "gods" like power, wealth, self) with the God revealed in Scripture. Pagan deities demanded appeasement, often through horrific acts, offering no reliable favor (Deut. 32:17; 1 Cor. 10:20). Their character was unpredictable, immoral.
-*   **The True God**: Yahweh is fundamentally different. His character is perfect goodness, unwavering justice, and infinite love. He is not fickle; His nature is constant (Mal. 3:6; James 1:17). This provides the only true foundation for hope.
-*   **Memory Text (Jeremiah 9:24 NKJV)**: *"But let him who glories glory in this, that he understands and knows Me, that I am the LORD, exercising lovingkindness, judgment, and righteousness in the earth. For in these I delight,' says the LORD.”*
-    *   God doesn't glory in raw power or abstract sovereignty alone, but in His active moral attributes: *lovingkindness* (Hesed - covenant faithfulness, mercy), *judgment* (Mishpat - justice, making right what is wrong), and *righteousness* (Tzedakah - right conduct, integrity). He *delights* in these.
-*   **Lesson Focus**: This week, we delve into the beautiful, inseparable nature of God's love and justice, His inherent goodness, and His unchanging character. Understanding *who* God is transforms *who* we become.
-*   **Character Goal**: The ultimate aim of our existence is the restoration of God's image in us (Gen 1:27, Rom 8:29). Studying His character is paramount to reflecting it. "By beholding we become changed" (2 Cor 3:18).
+**II. The Foundation: God's Changeless Character of Love AND Justice (10-12 mins)**
+    *   **A. Love and Justice: Inseparable Pillars of His Throne:**
+        *   Core Teaching Point: God's love doesn't negate His justice, nor does His justice diminish His love. They are two sides of the same perfect, holy character – the very foundation of His eternal government.
+        *   Biblical Foundation: Psalm 89:14 - "Righteousness and justice are the foundation of Your throne; Mercy (lovingkindness) and truth go before Your face." Jeremiah 9:24 - Knowing God means understanding He *exercises* lovingkindness, judgment, *and* righteousness. He delights in *all* these.
+        *   EGW Insight: "Justice is the foundation of His throne, and the fruit of His love. It had been Satan's purpose to divorce mercy from truth and justice... But Christ shows that in God's plan they are indissolubly joined together; the one cannot exist without the other." (DA 762.2).
+        *   Application/Problem Tackled: Addresses the misconception (often fueled by Satan, see SC 10-11) that God is either *only* loving (ignoring sin) or *only* just (harsh/severe). We must grasp the perfect balance.
 
-### Sunday: Love and Justice (9 min)
+    *   **B. Changeless Principles, Relational Responses:** [*]
+        *   Core Teaching Point: God's *moral character* and *principles* are absolutely changeless (Mal 3:6, James 1:17). His described "relenting" (Ex 32:14) isn't a change in His character, but a change in His *action* based on His unchanging principles of mercy and justice, often in response to human repentance or intercession.
+        *   Biblical Foundation: Numbers 23:19 ("God is not a man, that He should lie, nor a son of man, that He should repent.") contrasts with Exodus 32:14 ("So the LORD relented..."). This shows His faithfulness to His covenant promises and warnings – He responds according to the conditions met or unmet.
+        *   EGW Insight: Moses understood God's "Let Me alone" not as final, but as an invitation to intercede, appealing to God's own character and promises (PP 318-319). God relents from judgment *because* He is merciful and just, when conditions allow.
+        *   Application/Obstacles to Depth: Helps overcome confusion about seemingly contradictory texts. God's responses are consistent with His unchanging character, not arbitrary whims.
 
-*   **Central Point**: God's love and justice are not opposing forces but intertwined aspects of His perfect character and the foundation of His government. True love demands justice, and true justice is motivated by love.
-*   **Biblical Foundation**:
-    *   **Psalm 33:5**: "He loves righteousness and justice; the earth is full of the steadfast love of the LORD." (Love *for* justice, flowing from His steadfast love).
-    *   **Isaiah 61:8**: "For I the LORD love justice; I hate robbery and wrong..." (Active love for justice implies hatred for its opposite).
-    *   **Psalm 89:14**: "Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you." (The very basis of His rule).
-    *   **Psalm 85:10**: "Steadfast love and faithfulness meet; righteousness and peace kiss each other." (Harmony, not conflict, in God's attributes).
-    *   **Micah 6:8**: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness [mercy], and to walk humbly with your God?" (Our required reflection of His character).
-*   **Ellen G. White Insights**:
-    *   "Justice is the foundation of His throne, and the fruit of His love." (DA 762.2). Love is the root, justice the necessary expression.
-    *   "In God's plan they are indissolubly joined together; the one cannot exist without the other." (DA 762.2). Trying to separate them creates a distorted view of God.
-    *   God "yearns over His erring children; in every way possible He seeks to teach them the way of life everlasting." His justice is tempered and guided by this yearning love (PK 414.1).
-    *   "God will not tolerate injustice from man to his fellow-men. He will not pass over oppression and wrong." (RH, Oct 1, 1895). His love demands He act against injustice.
-*   **Character Application**:
-    *   **Problem**: Humanity perverts both love (making it selfish or permissive) and justice (making it harsh, vindictive, or self-serving). We often struggle to balance mercy and accountability.
-    *   **Solution**: Understand that God's love *motivates* His justice. His justice *upholds* the principles necessary for love to flourish.
-    *   **Implementation**: In our families, churches, and communities, how can we practice justice motivated by love? How do we show mercy without condoning sin? How do we hold others accountable with compassion? Reflecting God means embodying *both* love and justice. Cry out for God's perfect justice to ultimately prevail.
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* Imagine a perfectly balanced scale. On one side is God's infinite Love (Hesed - covenant faithfulness), on the other His perfect Justice (Mishpat). His actions always keep this scale perfectly balanced. Removing one destroys the integrity of the other.
+        *   *Hypothetical:* A wise and loving king establishes fair laws for his kingdom (justice). When his own son breaks a law deserving punishment, the king's love motivates him to find a way to satisfy justice (perhaps paying the penalty himself) while still offering forgiveness and restoration, upholding the law's integrity. His *actions* respond to the situation, but his *character* (loving justice) remains constant.
 
-### Monday: God Is Entirely Good and Righteous (8 min)
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* LOVE & JUSTICE / CHANGELESS
+        *   *Diagram:* Scales (Balanced: Love <-> Justice) OR Throne with "Justice/Righteousness" as foundation.
+        *   *Verse:* Ps 89:14 / Mal 3:6
+        *   *Quote Snippet:* "...foundation of His throne." (DA 762.2) / "...indissolubly joined..." (DA 762.2)
 
-*   **Central Point**: God doesn't just *do* good and righteous things; He *is* inherently good and righteous. His actions flow perfectly from His unchanging nature. There is no darkness or potential for evil within Him.
-*   **Biblical Foundation**:
-    *   **Deuteronomy 32:4**: "The Rock, his work is perfect, for all his ways are justice. A God of faithfulness and without iniquity, just and upright is he." (Foundationally just and faithful).
-    *   **Psalm 92:15**: "...the LORD is upright; he is my rock, and there is no unrighteousness in him." (Absolute absence of unrighteousness).
-    *   **Zephaniah 3:5**: "The LORD within her is righteous; he does no injustice..." (Incapable of injustice).
-    *   **Psalm 145:17**: "The LORD is righteous in all his ways and kind [holy] in all his works." (Consistent character across all actions).
-    *   **1 John 1:5**: "God is light, and in him is no darkness at all." (Absolute purity and goodness).
-    *   **James 1:13**: "...God cannot be tempted with evil, and he himself tempts no one." (Immune to evil).
-    *   **Exodus 33:18-19**: Moses asks to see God's glory. God responds, "I will make all my *goodness* pass before you..." God's glory *is* His goodness, His character.
-*   **Ellen G. White Insights**:
-    *   "Jesus is attractive. He is full of love, mercy, and compassion. He proposes to be our friend..." (TMK 320.3). This attractiveness stems from His inherent goodness.
-    *   We need "experimental religion." Don't just hear or read; "*Taste* and see that the Lord is good." Experience His goodness personally (5T 221.2-3).
-    *   Satan pictures God as severe, emphasizing stern justice. Jesus came "to remove this dark shadow, by revealing to the world the infinite love [and inherent goodness] of God." (SC 11.1).
-*   **Character Application**:
-    *   **Problem**: Suffering and the existence of evil cause many to question God's goodness. How can a good God allow such things?
-    *   **Solution**: Anchor faith in God's revealed character – He *is* good, even when circumstances seem to contradict it. His goodness is linked to His glory. The Great Controversy framework helps explain the temporary reign of evil, permitted for a time to fully reveal its nature and vindicate God's character.
-    *   **Implementation**: Actively "taste and see" God's goodness daily through prayer, Bible study, and recognizing His blessings. When facing trials, consciously recall His revealed character of goodness and light. Trust His ultimate purposes, even when His ways are inscrutable now. Share this confidence in God's goodness with those struggling.
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* "In Psalm 89:14, what two things are called the foundation of God's throne?"
+        *   *(Reflection):* "Why is it dangerous to emphasize God's love *without* His justice, or His justice *without* His love?"
+        *   *(Application):* "How does knowing God's character is perfectly balanced and unchanging give you confidence, even when facing difficulties?"
 
-### Tuesday: God's Changeless Character [*] (8 min)
+**III. The Mandate: Reflecting God's Perfect Character (10-12 mins)**
+    *   **A. The High Calling to Perfection:**
+        *   Core Teaching Point: We are called to reflect God's complete character – His goodness, love, mercy, *and* justice. This isn't about achieving sinlessness in our own strength, but about surrendering fully to Christ so His perfect character can be reproduced in us.
+        *   Biblical Foundation: Matthew 5:48 - "Therefore you shall be perfect, just as your Father in heaven is perfect." This follows the command to love even enemies (v. 44-45), showing perfection involves reflecting God's impartial love and goodness. Deut 32:4 - "He is the Rock, His work is perfect; For all His ways are justice, A God of truth and without injustice; Righteous and upright is He." Our standard is God Himself.
+        *   EGW Insight: "The shortness of time is urged as an incentive... This is not the great motive... Jesus is attractive. He is full of love, mercy, and compassion... He proposes to elevate to companionship with Himself those who come to Him..." (TMK 320.2). It's about relationship and transformation, not just fear.
+        *   Application/Problem Tackled: Addresses feelings of inadequacy or the tendency towards legalism. Perfection is Christ *in* us, the hope of glory (Col 1:27), achieved through constant connection and surrender.
 
-*   **Central Point**: God's moral character—His love, justice, goodness, faithfulness—is unchanging. This provides an unshakable foundation for our trust, hope, and relationship with Him.
-*   **Biblical Foundation**:
-    *   **Malachi 3:6**: "For I the LORD do not change; therefore you, O children of Jacob, are not consumed." (His moral constancy ensures His covenant faithfulness and mercy endure despite Israel's failings).
-    *   **James 1:17**: "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change." (His goodness is consistent; He is the reliable source of all good).
-    *   **Hebrews 13:8**: "Jesus Christ is the same yesterday and today and forever." (The divine nature, revealed in Christ, is eternally consistent).
-    *   **Titus 1:2**: "...in hope of eternal life, which God, who never lies, promised before the ages began..." (His inability to lie guarantees His promises).
-    *   **Hebrews 6:17-18**: God confirmed His promise with an oath, providing "two unchangeable things, in which it is impossible for God to lie," so we might have strong encouragement. (His word and oath are absolutely reliable because His character is).
-    *   **2 Timothy 2:13**: "...if we are faithless, he remains faithful—for he cannot deny himself." (His faithfulness is rooted in His unchanging nature, not our performance).
-*   **Ellen G. White Insights**:
-    *   "God always has been. He is the great I AM... from everlasting to everlasting, thou art God... With Him there is no variableness, neither shadow of turning." (FLB 42.2-3). His eternal nature guarantees His stability.
-    *   "It was because the law was changeless, because man could be saved only through obedience to its precepts, that Jesus was lifted up on the cross." (DA 762.4). The cross demonstrates both unchanging justice *and* unchanging love.
-    *   "God's goodness is to be made known. 'Ye are My witnesses, saith the Lord, that I am God.'" (COL 299.2). Our role is to testify to this reliable, good character.
-*   **Character Application**:
-    *   **Problem**: We live in a world of constant change, uncertainty, and broken promises. It's hard to find something truly reliable to trust.
-    *   **Solution**: Anchor your soul to the unchanging character of God. His love, justice, and promises are eternally consistent. The Cross is the ultimate proof: God upheld His unchanging law (justice) while demonstrating His unchanging love and providing a way for forgiveness.
-    *   **Implementation**: When facing instability, consciously meditate on God's unchanging attributes (Mal 3:6, Heb 13:8). Base your hope not on shifting circumstances but on His reliable character and promises. Learn to trust His goodness even when His actions are difficult to understand, knowing His core nature never changes.
+    *   **B. Refined Through Trials for His Likeness:** [*]
+        *   Core Teaching Point: Difficulties and trials are not signs of God's disapproval but are often His chosen instruments to purify our character and deepen our reflection of Him, burning away the dross so His image shines clearer.
+        *   Biblical Foundation: James 1:2-4 - "Count it all joy when you fall into various trials, knowing that the testing of your faith produces patience. But let patience have its perfect work, that you may be perfect and complete, lacking nothing." 1 Peter 1:7 - Trials prove the genuineness of faith, like gold tested by fire.
+        *   EGW Insight: We need more than theoretical knowledge. "Experience is knowledge derived from experiment... ‘Taste and see that the Lord is good.’... They have never tasted and learned by experience that the Lord is good." (T5 221.2-3). Trials provide opportunities to experience His faithfulness and grow.
+        *   Application/Character Trait Focus: Trials develop patience, endurance, deeper faith, humility, and reliance on God – key aspects of Christ's character needed for the final days.
 
-### Wednesday: A Repenting God? (Integrate points into Tuesday/Thursday or omit if time is short)
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Visual Metaphor:* Like a silversmith refining silver. He heats the metal intensely (trials) to bring impurities (sin, selfishness) to the surface so they can be skimmed off. He knows the process is complete when he can see his own reflection clearly in the purified silver. God allows trials to refine us until Christ's image is reflected.
+        *   *Analogy:* An apprentice sculptor learning from the Master. The Master chips away rough edges, smooths surfaces, sometimes using forceful blows (trials), sometimes gentle polishing (blessings), all to reveal the beautiful form hidden within the stone – conforming us to the image of Christ.
 
-*   **Key Point**: Biblical instances of God "relenting" or "repenting" (e.g., Exod. 32:14 after Moses' plea, Jer. 18:7-10 regarding nations) do *not* indicate a change in His character or moral principles. They show Him altering His *planned course of action* in response to human repentance or intercession, always consistent with His unchanging love, mercy, and justice. He doesn't "repent" like humans who admit wrongdoing (Num. 23:19, 1 Sam. 15:29).
-*   **EGW**: Moses understood God's "Let Me alone" (Ex 32:10) as an *invitation* to intercede, demonstrating God's desire for mercy (PP 318-319). God always gives warnings before judgment, desiring repentance (DA 634).
-*   **Application**: This shows our relationship with God is real and dynamic; our choices and prayers matter to Him. It highlights His mercy and responsiveness, rooted in His unchanging character.
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* REFLECTION / PERFECTION / REFINEMENT
+        *   *Diagram:* Mirror reflecting Light (Christ) OR Fire -> Gold (Refining Process)
+        *   *Verse:* Matt 5:48 / James 1:2-4
+        *   *Question:* How are trials refining tools?
 
-### Thursday: Hold Fast to Love and Justice (7 min)
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Recall):* "What does James 1 say the testing of our faith produces?" OR "What was the silversmith analogy illustrating?"
+        *   *(Reflection):* "How does the command 'Be perfect' feel different when we understand it means reflecting Christ *through His power* rather than achieving it ourselves?"
+        *   *(Application):* "When facing a trial this week, how can remembering its potential refining purpose (James 1:4) change our response?"
 
-*   **Central Point**: Because God is perfectly loving, just, good, and faithful, we are called to trust Him completely and actively reflect these same qualities in our own lives, holding fast to them continually.
-*   **Biblical Foundation**:
-    *   **Deuteronomy 7:9**: Know He is the "faithful God who keeps covenant and steadfast love...". Trust His faithfulness.
-    *   **Psalm 100:5**: "For the LORD is good; his steadfast love endures forever, and his faithfulness to all generations." His enduring character invites our trust.
-    *   **Matthew 5:44-45, 48**: "Love your enemies... so that you may be sons of your Father... You therefore must be perfect [complete, mature in love], as your heavenly Father is perfect." Reflect His impartial, complete love.
-    *   **Hosea 12:6 (NKJV/ESV)**: "So you, by the help of your God, return, observe mercy and justice [hold fast to love and justice], and wait continually for your God." Our response to His character is active obedience.
-    *   **Isaiah 25:1**: "O LORD, you are my God; I will exalt you; I will praise your name, for you have done wonderful things, plans formed of old, faithful and true." Praise Him for His reliable character and actions.
-    *   **Revelation 15:3-4**: The redeemed sing of His works ("great and marvelous") and His ways ("just and true"). His character will be universally acknowledged.
-*   **Ellen G. White Insights**:
-    *   Christ revealed the Father's character: "long-suffering, merciful, and gracious, slow to anger, and full of goodness and truth." Our lives should reveal the same (CT 29.2).
-    *   The final song merges Moses (God's justice, providence) and the Lamb (God's grace, redemption), showing the harmony of His attributes (TM 433.1).
-    *   "Praise the Lord even when you fall into darkness. Praise Him even in temptation... it will bring a sunbeam." Actively choose to trust and praise His character (2T 593.3). Scatter this light.
-*   **Character Application**:
-    *   **Problem**: It's easy to become discouraged by injustice or tempted to compromise our principles for expediency. We forget to actively cultivate love and justice.
-    *   **Solution**: Consciously "hold fast" to God's standard of love and justice, drawing strength from His unchanging character. Trust His ultimate vindication.
-    *   **Implementation**: Identify specific areas where you can better "do justice" and "love mercy" this week. How can you show God's impartial love, even to those difficult to love? Make praising God for His faithfulness a deliberate practice, especially in hard times. Let your life be a testimony that furthers justice and reflects His love.
+**IV. The Vindication: Why Reflecting His Character Matters Now [*] (8-10 mins)**
+    *   **A. Demonstrating God's Justice Before the Universe:**
+        *   Core Teaching Point: In the Great Controversy, Satan has accused God of being unjust and His law impossible to keep. God's final generation, by reflecting His character of love and justice through His power, will vindicate God's name and prove Satan a liar.
+        *   Biblical Foundation: Revelation 15:3-4 - The redeemed sing, "Great and marvelous are Your works, Lord God Almighty! Just and true are Your ways, O King of the saints! Who shall not fear You, O Lord, and glorify Your name? ... For Your judgments have been manifested." Our lives contribute to this final manifestation. Micah 6:8 - "Do justly, love mercy, walk humbly" – this reflects God's character and is His requirement.
+        *   EGW Insight: "God's goodness is to be made known. ‘Ye are My witnesses, saith the Lord, that I am God.’ Isaiah 43:12." (COL 299.1). Our lives are testimonies in the cosmic conflict.
+        *   Application/End-Time Relevance: Our daily choices to act justly, love mercy, and depend on God are not small things; they are part of the final demonstration of God's character needed before Christ returns.
 
-### Conclusion (7 min)
+    *   **B. Readiness for His Appearing:**
+        *   Core Teaching Point: Reflecting God's character is the ultimate readiness for His return. It's not just about doctrinal knowledge, but about a heart transformed into His likeness, prepared to live eternally in His presence where only holiness can dwell.
+        *   Biblical Foundation: Hebrews 12:14 - "Pursue peace with all people, and holiness, without which no one will see the Lord." Titus 2:11-14 - God's grace teaches us to live soberly, righteously, and godly... zealous for good works, awaiting His appearing.
+        *   EGW Insight: Those who heed the warnings of coming judgment, like Noah and Lot, and align their lives with God's will through faith, are saved (DA 634). Our preparation involves acting on faith and obedience now.
+        *   Application/Need & Solution: The need is transformation. The solution is daily surrender to Christ, allowing the Holy Spirit to work His character in us (LHU 253.6).
 
-*   **Summary**: We've explored the glorious character of our God: His inseparable love and justice, His inherent goodness and righteousness, His absolute faithfulness, and His unchanging nature. Unlike the false gods of fear and caprice, our God is the bedrock of truth, love, and justice.
-*   **Character Imperative**: Understanding God's character is not merely theological exercise; it is the foundation of our transformation. "Beholding Jesus" means beholding the Father's character (John 14:9). Our highest calling, the very purpose of the plan of salvation, is to have His image, His character of love and righteousness, restored in us.
-*   **Call to Action**:
-    *   **Self-Examination**: Do you truly know God as One who delights in lovingkindness, judgment, and righteousness? Do you trust His goodness even amidst trials? Are you actively seeking to reflect *both* His love and His justice?
-    *   **Practical Steps**:
-        1.  **Taste and See**: Commit to spending time daily beholding God's character in Scripture and prayer, asking the Spirit to impress His goodness upon your heart.
-        2.  **Hold Fast**: Identify one relationship or situation this week where you will intentionally practice *both* love (mercy, kindness) and justice (fairness, accountability), reflecting God's balanced character.
-        3.  **Witness**: Share the hope found in God's reliable and loving character with someone who is struggling or disillusioned.
-*   **Final Appeal & Urgency**: Our God is trustworthy, His love is perfect, His justice is sure. As we see Bible prophecy fulfilling and the return of Jesus drawing near, let us anchor our souls to His unchanging character. Let us strive, by His grace, to become living reflections of His love and justice, preparing ourselves and warning the world for His soon coming. Let us be found faithful, holding fast to Him who is faithful and true. Amen.
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* Ambassadors in a hostile foreign territory. Their conduct, integrity, and representation of their King's just and merciful laws either honor or dishonor their homeland. We are Christ's ambassadors (2 Cor 5:20) in enemy territory.
+        *   *Hypothetical Courtroom Drama:* Imagine God on trial before the universe, accused by Satan. Who are the key witnesses for the defense? His people, whose transformed lives demonstrate the goodness, justice, and power of God's character and law.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* VINDICATION / READINESS / WITNESSES
+        *   *Diagram:* Earth (Battlefield) -> Heaven (Throne) with arrows showing our lives impact cosmic view.
+        *   *Verse:* Rev 15:4 / Micah 6:8 / Heb 12:14
+        *   *Quote Snippet:* "Ye are My witnesses..." (COL 299.1)
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* "According to Revelation 15, what do the redeemed declare about God's ways?"
+        *   *(Reflection):* "How does viewing our daily character development as part of 'vindicating God' change its importance?"
+        *   *(Application):* "What is one specific area where we can be more intentional this week about 'doing justly' or 'loving mercy' (Micah 6:8) in our interactions?"
+
+**V. Conclusion & Appeal (5-8 mins)**
+    *   Summary: We've seen that God's character is a perfect, unchanging blend of love and justice. Knowing Him means understanding this balance. Our highest calling, especially now, is to surrender fully so He can reproduce this beautiful character in us.
+    *   Character Focus Recap: The call to "be perfect" (Matt 5:48) is a call to reflect His love *and* His justice, made possible only through His transforming grace. This is the essence of sanctification and readiness.
+        *   *(Whiteboard: Key Character Trait: FAITHFULNESS / HOLINESS)*
+    *   Call to Action/Decision: Don't be content with a superficial understanding or experience. Seek to know God deeply. Choose daily, hourly, to surrender your will, your thoughts, your actions to Him. Ask Him to refine you, to reflect His character through you.
+        *   *(Whiteboard: Call to Action Keyword: SURRENDER / REFLECT / TRUST)*
+        *   *(Optional Final Question):* "As we close, what one aspect of God's character – His love, His justice, His faithfulness – will you specifically ask Him to develop more fully in you this week?" (Lead into prayer)
+    *   Final Thought/Urgency & Hope: "There is a day just about to burst upon us when God's mysteries will be seen, and all His ways vindicated..." (TM 433.2). Let us cooperate with Him now, allowing His love and justice to transform us, that we may be ready and bring Him glory. He *is* coming soon!
+        *   *(Whiteboard: Final Verse Ref or Hope phrase: Rev 22:12 / "He is Coming! Be Ready!")*
+
+---
+*Sections marked with [*] can be condensed if time is limited, focusing effort on the core complex elements (presented simply) and allowing at least one brief discussion point.*
+```

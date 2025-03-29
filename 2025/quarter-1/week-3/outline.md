@@ -1,83 +1,102 @@
-# 2024 Q1 W3
-## Lesson 3: To Be Pleasing to God
-- **Overarching Themes:** God's infinite love and value for humanity, the possibility of pleasing God through Christ, the nature of saving faith, character transformation through relationship with God.
-- **Character Focus:** Understanding our value to God, cultivating heartfelt obedience, developing faith, reflecting Christ's love.
-- **Urgency:** Recognizing God's deep desire for relationship and our response in light of eternity and Christ's soon return.
+```md
+# 2024 Q1 W3 - January 11-17
+## To Be Pleasing to God
 
-**(Approx. 45 Minutes Total)**
+**Overarching Theme:** Reflecting the Father's Unfathomable Love: Our True Worth and Faithful Response in Christ
+**Central Focus:** Understanding our immense value to God through Christ, enabling a heart-response of faith and obedience that develops a character fit for eternity.
+**Key Texts:** Luke 15:20-24, Zephaniah 3:17, Hebrews 11:6, 1 Peter 2:5
+
+**(Estimated Time: 45 Minutes Total)**
 
 ---
 
-**I. Introduction: Can We Truly Please God? (5-7 minutes)**
+**I. Introduction (5-7 mins)**
+    *   Hook: Imagine the most precious, valuable object you can think of. Now, consider this: God values *you* infinitely more, even in our fallen state. How can this be?
+    *   Theme Introduction: Today we explore a profound truth: God, the Holy One, not only loves us but *delights* in us, His children, when we are connected to Him through Christ. Our theme is **Reflecting the Father's Unfathomable Love: Our True Worth and Faithful Response in Christ.** Understanding this depth changes everything.
+        *   *(Whiteboard: Write Main Theme Title: Reflecting the Father's Love)*
+    *   Connection to Character/Eternity: Grasping our value and God's delight isn't just comforting; it's foundational for building the Christ-like character needed to stand firm in these last days and live eternally with Him.
+    *   Roadmap: We'll explore (1) God's astonishing view of our worth, (2) How we, as sinners, can actually please Him, and (3) The loving response this calls forth from our hearts.
 
-*   **Hook:** Begin with the Father's Day gift analogy from the lesson introduction (p. 20). Ask: How does this contrast with how our Heavenly Father views us and our feeble efforts?
-*   **The Core Question:** Can we, as fallen, sinful beings, actually be *pleasing* to a holy God? It seems impossible from a human standpoint.
-*   **Memory Text:** "The LORD your God in your midst, the Mighty One, will save; He will rejoice over you with gladness, He will quiet you with His love, He will rejoice over you with singing" (Zephaniah 3:17, NKJV).
-    *   This text reveals God's heart *towards* His people – not condemnation, but saving love and joyful delight.
-*   **Lesson Goal:** This week, we explore the incredible truth that God *does* value us infinitely, He *delights* in His children, and through the merits of Jesus Christ, we *can* live lives that are pleasing in His sight. This understanding is vital for character development and readiness for His coming.
-*   **EGW:** "It is the glory of the gospel that it is founded upon the principle of restoring in the fallen race the divine image by a constant manifestation of benevolence." (CH 222.1) God's goal is restoration, not just acquittal.
+**II. The Father's Heart: Seeing Our Infinite Worth (12-15 mins)**
+    *   **A. God's Unconditional Regard & Joy:**
+        *   Core Teaching Point: Despite our sin and unworthiness, God sees us with infinite love and potential, valuing us beyond measure, like the father longing for his lost son.
+        *   Biblical Foundation: Luke 15:20-24 - The father *ran* (undignified, eager love!), kissed, restored fully. He didn't wait for perfect repentance, just the turning towards home. Zephaniah 3:17 - God rejoices over us *with singing*! He is *in our midst*, quieting us with His love.
+        *   EGW Insight: "God regards us as His children... He invites us to trust in Him with a trust deeper and stronger than that of a child in his earthly father... the love of God is larger, broader, deeper, than human love can possibly be. It is immeasurable." (COL 141, 142). He sees us according to the price paid (DA 668.1).
+        *   Application/Problem Tackled: We often feel worthless due to sin/failures. God's view is based on His love and Christ's sacrifice, not our performance.
 
-**II. More Valuable Than You Can Imagine (10 minutes)**
+    *   **B. Valued Enough to Redeem:** [*]
+        *   Core Teaching Point: Our value is proven by the infinite price Heaven paid – the life of God's own Son.
+        *   Biblical Foundation: Isaiah 43:4 - "Since you were precious in My sight... I have loved you; Therefore I will give men for you, And people for your life." Romans 5:8 - "While we were still sinners, Christ died for us."
+        *   EGW Insight: "God wanted them, else He would not have sent His Son on such an expensive errand to redeem them." (DA 668.1). "With Christ He gave all the resources of heaven..." (CH 222.2).
+        *   Application/Obstacles to Depth: Satan constantly tries to make us doubt God's love and our value. We must cling to the evidence of the Cross.
 
-*   **Sunday - God's Compassionate Pursuit**
-*   **Central Point:** God sees immense value in every soul, demonstrated powerfully in the parable of the Prodigal Son.
-*   **Bible Study:** Luke 15:11-32
-    *   **(v. 11-19):** The son's rejection, degradation, and realization of need. He saw himself as worthless, fit only to be a servant.
-    *   **(v. 20):** The Father's reaction: "But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him." This is undignified haste driven by overwhelming love and value for the son.
-    *   **(v. 21-24):** Full restoration, celebration – signifying God's joy over one repentant sinner.
-    *   **(v. 25-32):** The elder brother's reaction – represents self-righteousness, misunderstanding the Father's heart, focusing on works, not relationship. A warning to those "in the church."
-*   **EGW Insight:**
-    *   "Arise and go to your Father. He will meet you a great way off. If you take even one step toward Him in repentance, He will hasten to enfold you in His arms of infinite love." (COL 206.1)
-    *   "The man who attempts to keep the commandments of God from a sense of obligation merely... will never enter into the joy of obedience... True obedience is the outworking of a principle within. It springs from the love of righteousness, the love of the law of God." (COL 97.4) Contrast with the elder brother.
-*   **Character Application:** Do we grasp our value to God, even in our sinfulness? Do we see others through His eyes? Are we harboring an "elder brother" spirit, focused on our performance rather than the Father's love and grace? God's love motivates true obedience.
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* A master artist sees immense value in a damaged painting, not because of the damage, but because of the original design and potential for restoration. God sees His image, marred but restorable, in us.
+        *   *Hypothetical:* Imagine finding a lost child. Your overwhelming emotion isn't judgment, but relief and joy. Magnify that infinitely – that's a glimpse of God's joy over one returning soul (Luke 15:7).
 
-**III. Rejoicing With Gladness (8 minutes)**
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* VALUE / PRECIOUS
+        *   *Diagram:* Father running -> Son (Luke 15)
+        *   *Verse:* Zeph 3:17 ("Rejoice over you with singing")
+        *   *Quote Snippet:* "...price He has placed upon them." (DA 668.1)
 
-*   **Monday & Tuesday - God's Delight in His People**
-*   **Central Point:** God doesn't just tolerate us; He actively delights and rejoices over His redeemed people when they walk in His ways.
-*   **Bible Study:**
-    *   **Zephaniah 3:17:** God rejoices, quiets with love, sings over His people. This is active, emotional delight.
-    *   **Isaiah 43:4:** "Since you were precious in My sight, You have been honored, And I have loved you..."
-    *   **Psalm 149:4:** "For the LORD takes pleasure in His people; He will beautify the humble with salvation."
-    *   **Proverbs 15:8-9:** Contrast: Wickedness is an abomination, but "the prayer of the upright is His delight," and "He loves him who follows righteousness." God delights in character reflecting His own.
-    *   **Ephesians 5:25-28:** Christ's love for the church is the model – sacrificial, cleansing, cherishing. This reflects God's deep, loving investment.
-*   **EGW Insight:**
-    *   "As the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee... And heaven and earth shall unite in the Father's song of rejoicing: 'For this My son was dead, and is alive again; he was lost, and is found.'" (COL 207.1)
-    *   "What is needed in this, our time of danger, is fervent prayer... Let everyone bear in mind that God delights to listen to the supplications of His people..." (2SM 372.3)
-*   **Character Application:** Understanding God's delight motivates us. It's not about earning favor, but responding to His love. Does the knowledge that God *rejoices* over righteousness inspire us to pursue it more earnestly?
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Observation):* "In the Prodigal Son story (Luke 15), what specific actions show the father's great love and acceptance?"
+        *   *(Reflection):* "Why is it sometimes hard for us to truly believe God delights in us, as Zephaniah 3:17 says?"
+        *   *(Application):* "How does remembering the 'expensive errand' of the Cross help you combat feelings of worthlessness this week?"
 
-**IV. The Only Way: Pleasing God Through Christ and Faith (10 minutes)**
+**III. Pleasing God: The Pathway of Faith Through Christ (12-15 mins)**
+    *   **A. The Impossibility Alone, The Possibility in Christ:**
+        *   Core Teaching Point: On our own, our best efforts are tainted by sin and cannot please a holy God. But through Christ's perfect life and sacrifice, credited to us by faith, we become acceptable and pleasing to Him.
+        *   Biblical Foundation: Hebrews 11:6 - "Without faith it is impossible to please Him." 1 Peter 2:5 - We offer "spiritual sacrifices acceptable to God *through Jesus Christ*." Romans 8:1 - "There is therefore now no condemnation to those who are *in Christ Jesus*."
+        *   EGW Insight: "With all our sins and weaknesses, we are not cast aside as worthless. 'He hath made us accepted in the Beloved.' Ephesians 1:6. The glory that rested upon Christ is a pledge of the love of God for us." (DA 113.1).
+        *   Application/Problem Tackled: The feeling of "not being good enough" for God. The solution isn't trying harder in our own strength, but trusting fully in Christ's sufficiency.
 
-*   **Wednesday & Thursday - The Foundation of Acceptance**
-*   **Central Point:** Fallen humanity cannot please God through its own efforts. Acceptance and the ability to please God come *only* through faith in Jesus Christ and His mediating work.
-*   **Bible Study:**
-    *   **Romans 5:8:** "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us." His love and provision came *first*.
-    *   **Romans 8:1:** "There is therefore now no condemnation to those who are in Christ Jesus..." Our standing is based on Him.
-    *   **Hebrews 11:6:** "But without faith it is impossible to please Him..." Faith is the essential channel.
-    *   **1 Peter 2:4-6:** We come to Christ, the Living Stone, and become living stones, offering "spiritual sacrifices acceptable to God *through Jesus Christ*."
-    *   **Mark 9:17-29:** The father's cry: "Lord, I believe; help my unbelief!" (v. 24). Jesus didn't demand perfect faith, but honored the desperate plea directed towards Him. Even weak faith, fixed on Christ, is accepted.
-*   **EGW Insight:**
-    *   "Without God's intervention, fallen people are incapable of bringing anything valuable to God. Yet God, in His grace and mercy, has made a way, through the work of Christ." (Lesson paraphrase based on 7BC 924, SD 53).
-    *   "The word that was spoken to Jesus at the Jordan, 'This is My beloved Son, in whom I am well pleased,' embraces humanity... With all our sins and weaknesses, we are not cast aside as worthless. 'He hath made us accepted in the Beloved.' Ephesians 1:6." (DA 113.1)
-    *   "It is faith that connects us with heaven, and brings us strength for coping with the powers of darkness... Let these souls, in their helpless unworthiness, cast themselves upon the mercy of their compassionate Saviour... You can never perish while you do this—never." (DA 429.1)
-*   **Character Application:** We must abandon self-reliance. Our efforts, prayers, and acts of service are pleasing *only* as they are offered by faith through Christ. This brings humility and constant dependence on Him. Do we truly rely on Christ's merits alone?
+    *   **B. Faith That Connects, Even When Imperfect:** [*]
+        *   Core Teaching Point: Pleasing faith isn't about quantity or perfection, but about its object: Christ. Even weak faith, reaching out to Him, connects us to His power and righteousness.
+        *   Biblical Foundation: Mark 9:24 - The desperate father cried, "Lord, I believe; help my unbelief!" Jesus honored this struggling faith.
+        *   EGW Insight: "Let these souls, in their helpless unworthiness, cast themselves upon the mercy of their compassionate Saviour. Look not to self, but to Christ... Faith comes by the word of God. Then grasp His promise... Cast yourself at His feet with the cry, 'Lord, I believe; help Thou mine unbelief.' You can never perish while you do this—never." (DA 428, 429).
+        *   Application/Obstacles to Depth: Discouragement over weak faith or persistent struggles. The key is *where* our faith is placed, not how strong it feels.
 
-**V. A Worthy Goal: Living a Pleasing Life [*] (5 minutes)**
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* A small child brings a scribbled drawing or a wilted flower as a gift. A loving parent doesn't critique the imperfection but cherishes the love and trust behind the gift. God accepts our faith-offerings through Christ similarly.
+        *   *Metaphor:* Faith is the hand that reaches out to grasp the lifeline (Christ) thrown to us. Even a trembling hand that grasps the rope is saved.
 
-*   **Thursday & Friday - Obedience from the Heart**
-*   **Central Point:** While justification is by faith alone, the result of true faith is a transformed life aimed at pleasing God through heartfelt obedience and love.
-*   **Bible Study:**
-    *   **2 Corinthians 5:9:** "Therefore we make it our aim... to be well pleasing to Him." This becomes the believer's goal.
-    *   **Hebrews 13:21:** God works *in us* "what is well pleasing in His sight, through Jesus Christ..." It's His work enabling our pleasing actions.
-    *   **Romans 12:10-13:** Practical outworking: brotherly love, diligence, fervency, prayer, hospitality. Love in action.
-*   **EGW Insight:**
-    *   "All true obedience comes from the heart. It was heart work with Christ. And if we consent, He will so identify Himself with our thoughts and aims, so blend our hearts and minds into conformity to His will, that when obeying Him we shall be but carrying out our own impulses. The will, refined and sanctified, will find its highest delight in doing His service." (DA 668.3)
-    *   "Stand like Daniel... Do not disappoint Him who so loved you that He gave His own life to cancel your sins... If you have made mistakes, you certainly gain a victory if you see these mistakes and regard them as beacons of warning. Thus you turn defeat into victory..." (COL 332.3)
-*   **Character Application:** Pleasing God is not a burden, but the natural outflow of a heart transformed by His love and grace. It involves actively seeking to live according to His will, empowered by His Spirit. This is the essence of character building – becoming like Jesus.
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* FAITH / ACCEPTED IN CHRIST
+        *   *Diagram:* Person -> Cross -> God (Mediator)
+        *   *Verse:* Heb 11:6a ("Without faith...") / 1 Pet 2:5b ("...acceptable... through Jesus Christ")
+        *   *Quote Snippet:* "Help my unbelief!" (Mark 9:24)
 
-**VI. Conclusion (5-8 minutes)**
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Recall):* "According to 1 Peter 2:5, how do our spiritual sacrifices become acceptable to God?" (Through Jesus Christ)
+        *   *(Reflection):* "What encouragement can we take from the story of the father with the demon-possessed son (Mark 9) about the kind of faith God accepts?"
+        *   *(Application):* "When you feel your faith is weak, what practical step can you take, based on these verses and insights, to connect with Christ's strength?"
 
-*   **Recap:** We began asking if we can please God. The answer is a resounding YES, but only through Christ. God values us infinitely (Prodigal Son), He delights in His people (Zephaniah), He accepts us through Christ's merits by faith (Romans, Hebrews), even imperfect faith (Mark 9), and He empowers us to live lives of loving obedience that are truly pleasing to Him (DA 668).
-*   **Hope & Urgency:** What amazing hope this gives us! We are not worthless, but precious. We are not striving alone, but accepted and empowered. Christ is our Mediator, making our flawed offerings acceptable.
-*   **Final Charge:** Let us embrace our value in God's eyes. Let us rest in Christ's acceptance. Let us, by faith, make it our highest aim to please Him, allowing His Spirit to transform our characters into His likeness. This is our preparation for His soon return.
-*   **Closing Thought:** "When we know God as it is our privilege to know Him, our life will be a life of continual obedience. Through an appreciation of the character of Christ, through communion with God, sin will become hateful to us." (DA 668.4) May this be our experience.
+**IV. Conclusion & Appeal (5-8 mins)**
+    *   Summary: We've seen God's incredible love and delight in us, not because of who we are, but because of His grace and who Christ is. We are precious in His sight! We can please Him, not by works, but by faith connecting us to Jesus.
+    *   Character Focus Recap: This understanding transforms us! Knowing we are loved and accepted frees us to obey, not out of fear or duty, but out of love. This is the heart of true character development – reflecting the Father's love.
+        *   *(Whiteboard: Key Character Trait: LOVING OBEDIENCE)*
+
+    *   ***Illustrative Speaking Notes (Choose 1-2):***
+        *   *Analogy:* Think of receiving an incredibly generous, unexpected gift. Your natural response isn't obligation, but overwhelming gratitude that *wants* to express itself. Knowing God's love and acceptance in Christ should evoke a similar heart-response of loving obedience.
+        *   *Story Snippet (Ref DA 668.4):* Briefly mention how Christ's own will was perfectly aligned with the Father's. When we consent, He works in us so that *doing His will* becomes our *highest delight*, not a burden. It's like wanting what He wants.
+
+    *   ***Whiteboard Visuals:***
+        *   *Keyword:* RESPONSE / TRUST
+        *   *Diagram:* Heart -> Loving Obedience
+        *   *Verse:* 2 Cor 5:9 ("well pleasing to Him")
+        *   *Quote Snippet:* "...highest delight in doing His service." (DA 668.4)
+
+    *   ***Discussion Questions (Allow brief time):***
+        *   *(Simple/Recall):* "What is the key difference between obeying God out of fear versus obeying Him out of love, based on our discussion?"
+        *   *(Reflection):* "How does truly believing you are 'accepted in the Beloved' (Eph 1:6) change your motivation for living a godly life?"
+        *   *(Application/Forward-Looking):* "Thinking about the week ahead, what is one practical way you can remind yourself of your value to God when you face challenges or temptations?"
+
+    *   Call to Action/Decision: Will you accept your value in God's eyes today? Will you choose to place your trust, even imperfect trust, fully in Christ, allowing His love to motivate your life? Let's aim "to be well pleasing to Him" (2 Cor 5:9) out of gratitude.
+    *   Final Thought/Urgency & Hope: "All true obedience comes from the heart... if we consent, He will so identify Himself with our thoughts and aims... that when obeying Him we shall be but carrying out our own impulses. The will, refined and sanctified, will find its highest delight in doing His service." (DA 668.4). Let us consent today, for He is coming soon!
+        *   *(Whiteboard: Final Verse Ref or Hope phrase: Rev 22:12 / "Accepted in the Beloved!")*
+
+---
+*Sections marked with [*] can be condensed if time is limited, focusing effort on the core complex elements (presented simply) and allowing at least one brief discussion point.*
+```
