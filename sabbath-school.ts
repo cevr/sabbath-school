@@ -4,7 +4,6 @@ import { Effect, Schema, Option, Match, Data } from "effect";
 import { NodeRuntime } from "@effect/platform-node";
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import { generateText } from "ai";
-import type { LanguageModelV1 } from "ai";
 import { select, isCancel } from "@clack/prompts";
 import { matchSorter } from "match-sorter";
 import * as cheerio from "cheerio";
@@ -231,10 +230,33 @@ interface WeekUrls {
   files: WeekFiles;
 }
 
-const findWeekUrls = (
-  $: cheerio.CheerioAPI
-): Effect.Effect<WeekUrls[], MissingPdfError> =>
+const findWeekUrls = (year: number, quarter: number) =>
   Effect.gen(function* (_) {
+    // Parse the base URL once
+    const baseUrl = `https://www.sabbath.school/LessonBook?year=${year}&quarter=${quarter}`;
+    const response = yield* Effect.tryPromise({
+      try: () =>
+        fetch(baseUrl).then((res) => {
+          if (!res.ok) {
+            throw new Error(`HTTP error! status: ${res.status}`);
+          }
+          return res.text();
+        }),
+      catch: (cause: unknown) =>
+        new DownloadError({
+          week: 0,
+          cause,
+        }),
+    });
+
+    const $ = yield* Effect.try({
+      try: () => cheerio.load(response),
+      catch: (cause: unknown) =>
+        new CheerioError({
+          week: 0,
+          cause,
+        }),
+    });
     const weekUrls: WeekUrls[] = [];
     let currentWeek = 1;
     let currentFiles: Partial<WeekFiles> = {};
@@ -320,34 +342,8 @@ const downloadQuarter = Effect.gen(function* (_) {
     onNone: () => Array.from({ length: 13 }, (_, i) => i + 1),
   });
 
-  // Parse the base URL once
-  const baseUrl = `https://www.sabbath.school/LessonBook?year=${year}&quarter=${quarter}`;
-  const response = yield* Effect.tryPromise({
-    try: () =>
-      fetch(baseUrl).then((res) => {
-        if (!res.ok) {
-          throw new Error(`HTTP error! status: ${res.status}`);
-        }
-        return res.text();
-      }),
-    catch: (cause: unknown) =>
-      new DownloadError({
-        week: 0,
-        cause,
-      }),
-  });
-
-  const $ = yield* Effect.try({
-    try: () => cheerio.load(response),
-    catch: (cause: unknown) =>
-      new CheerioError({
-        week: 0,
-        cause,
-      }),
-  });
-
   // Get all available week URLs
-  const weekUrls = yield* findWeekUrls($);
+  const weekUrls = yield* findWeekUrls(year, quarter);
 
   // Filter weeks based on what we need to download
   const weeksToDownload = weeks.filter((weekNumber) => {
