@@ -7,6 +7,7 @@ import { generateText, generateObject } from "ai";
 import { select, isCancel } from "@clack/prompts";
 import { matchSorter } from "match-sorter";
 import * as cheerio from "cheerio";
+import { createAppleNoteFromMarkdownSimple } from "./markdown-to-notes";
 
 import dotenv from "dotenv";
 import {
@@ -145,6 +146,7 @@ enum Action {
   Outline = "outline",
   Download = "download",
   Revise = "revise",
+  Export = "export",
 }
 
 const parseAction = parseFlag("--action").pipe(
@@ -153,7 +155,7 @@ const parseAction = parseFlag("--action").pipe(
       Option.flatMap((action) =>
         Option.fromNullable(
           matchSorter(
-            [Action.Outline, Action.Download, Action.Revise],
+            [Action.Outline, Action.Download, Action.Revise, Action.Export],
             action
           )[0] as string | undefined
         )
@@ -628,6 +630,20 @@ const generateOutline = (
         }),
     });
 
+    // Export to Apple Notes after writing to disk
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Exporting to Apple Notes...`
+    );
+    yield* createAppleNoteFromMarkdownSimple(text, {
+      activateNotesApp: false,
+    });
+
     const totalTime = msToMinutes(Date.now() - startTime);
     yield* Effect.log(
       `${formatLogPrefix(
@@ -636,7 +652,7 @@ const generateOutline = (
         year,
         quarter,
         weekNumber
-      )}Outline generated (${totalTime})`
+      )}Outline generated and exported (${totalTime})`
     );
   });
 
@@ -728,6 +744,20 @@ const reviseOutline = (
             cause,
           }),
       });
+
+      // Export to Apple Notes after writing to disk
+      yield* Effect.log(
+        `${formatLogPrefix(
+          current,
+          total,
+          year,
+          quarter,
+          weekNumber
+        )}Exporting to Apple Notes...`
+      );
+      yield* createAppleNoteFromMarkdownSimple(revisedText, {
+        activateNotesApp: false,
+      });
     }
 
     const totalTime = msToMinutes(Date.now() - startTime);
@@ -738,7 +768,7 @@ const reviseOutline = (
         year,
         quarter,
         weekNumber
-      )}Outline revised (${totalTime})`
+      )}Outline revised and exported (${totalTime})`
     );
   });
 
@@ -769,6 +799,90 @@ const reviseQuarter = Effect.gen(function* (_) {
   yield* Effect.log(`\n✅ Revision complete (${totalTime})`);
 });
 
+const exportOutline = (
+  weekNumber: number,
+  quarter: number,
+  year: number,
+  current: number,
+  total: number
+) =>
+  Effect.gen(function* (_) {
+    const startTime = Date.now();
+    const weekDir = getWeekDir(weekNumber, quarter, year);
+    const outlinePath = path.join(weekDir, "outline.md");
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Reading outline...`
+    );
+
+    const outlineText = yield* Effect.try({
+      try: () => fs.readFileSync(outlinePath, "utf-8"),
+      catch: (cause: unknown) =>
+        new FileSystemError({
+          operation: "read_file",
+          cause,
+        }),
+    });
+
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Exporting to Apple Notes...`
+    );
+
+    yield* createAppleNoteFromMarkdownSimple(outlineText, {
+      activateNotesApp: false,
+    });
+
+    const totalTime = msToMinutes(Date.now() - startTime);
+    yield* Effect.log(
+      `${formatLogPrefix(
+        current,
+        total,
+        year,
+        quarter,
+        weekNumber
+      )}Outline exported (${totalTime})`
+    );
+  });
+
+const exportQuarter = Effect.gen(function* (_) {
+  const startTime = Date.now();
+  const args = yield* Args;
+  const { year, quarter, week } = args;
+
+  yield* Effect.log(
+    `Starting outline export for Q${quarter} ${year}${
+      Option.isSome(week) ? ` Week ${week.value}` : ""
+    }`
+  );
+
+  const weeks = Option.match(week, {
+    onSome: (w) => [w],
+    onNone: () => Array.from({ length: 13 }, (_, i) => i + 1),
+  });
+
+  yield* Effect.forEach(
+    weeks,
+    (weekNumber, index) =>
+      exportOutline(weekNumber, quarter, year, index + 1, weeks.length),
+    { concurrency: 2 }
+  );
+
+  const totalTime = msToMinutes(Date.now() - startTime);
+  yield* Effect.log(`\n✅ Export complete (${totalTime})`);
+});
+
 const program = Effect.gen(function* (_) {
   const args = yield* Args;
 
@@ -784,6 +898,7 @@ const program = Effect.gen(function* (_) {
                 { value: Action.Outline, label: "Generate Outlines" },
                 { value: Action.Revise, label: "Revise Outlines" },
                 { value: Action.Download, label: "Download Files" },
+                { value: Action.Export, label: "Export to Apple Notes" },
               ],
             }),
           catch: (cause: unknown) =>
@@ -805,6 +920,7 @@ const program = Effect.gen(function* (_) {
     Match.when(Action.Outline, () => processQuarter),
     Match.when(Action.Download, () => downloadQuarter),
     Match.when(Action.Revise, () => reviseQuarter),
+    Match.when(Action.Export, () => exportQuarter),
     Match.exhaustive
   );
 });
