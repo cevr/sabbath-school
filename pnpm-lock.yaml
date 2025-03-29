@@ -32,6 +32,9 @@ importers:
       match-sorter:
         specifier: ^8.0.0
         version: 8.0.0
+      zod:
+        specifier: ^3.24.2
+        version: 3.24.2
     devDependencies:
       '@types/node':
         specifier: ^22.13.14

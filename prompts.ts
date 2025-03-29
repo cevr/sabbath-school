@@ -134,7 +134,7 @@ export const reviewCheckUserPrompt = (
   outline: string
 ) => `Please review the following outline and determine whether or not it needs to be revised.
 
-- IMPORTANT: Only return "YES" or "NO" as a response. Do not include any other text.
+- IMPORTANT: Only return true or false in the JSON response. Do not include any other text.
 
 ${outline}
 `;

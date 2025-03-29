@@ -3,7 +3,7 @@ import * as path from "path";
 import { Effect, Schema, Option, Match, Data } from "effect";
 import { NodeRuntime } from "@effect/platform-node";
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
-import { generateText } from "ai";
+import { generateText, generateObject } from "ai";
 import { select, isCancel } from "@clack/prompts";
 import { matchSorter } from "match-sorter";
 import * as cheerio from "cheerio";
@@ -16,6 +16,7 @@ import {
   reviewCheckUserPrompt,
   reviewUserPrompt,
 } from "./prompts";
+import { z } from "zod";
 
 dotenv.config();
 
@@ -415,8 +416,6 @@ const downloadQuarter = Effect.gen(function* (_) {
   yield* Effect.log(`\n✅ Download complete (${totalTime})`);
 });
 
-const yesRegex = /yes/i;
-
 const reviseText = (
   text: string,
   weekNumber: number,
@@ -430,12 +429,15 @@ const reviseText = (
 
     const reviewResponse = yield* Effect.tryPromise({
       try: () =>
-        generateText({
+        generateObject({
           model,
           messages: [
             { role: "system", content: reviewCheckSystemPrompt },
             { role: "user", content: reviewCheckUserPrompt(text) },
           ],
+          schema: z.object({
+            shouldRevise: z.boolean(),
+          }),
         }),
       catch: (cause: unknown) =>
         new ReviewError({
@@ -444,7 +446,7 @@ const reviseText = (
         }),
     });
 
-    const shouldRevise = yesRegex.test(reviewResponse.text);
+    const shouldRevise = reviewResponse.object.shouldRevise;
 
     if (!shouldRevise) {
       yield* Effect.log(
